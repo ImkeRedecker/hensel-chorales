@@ -1,5 +1,8 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Geibel, Emanuel
 !!!OTL: Im Wald
+!!!OMD: Allegro vivace
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
 *staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
@@ -10,7 +13,6 @@
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Allegro vivace	!	!
 4E	Im	f	4e	Im	f	4e	Im	f	4e	Im	f
 =	=	=	=	=	=	=	=	=	=	=	=
 4.A	Wald,	.	4.c#	Wald,	.	4.a	Wald,	.	4.ee	Wald,	.
@@ -27,15 +29,18 @@
 8r	.	p	8r	.	p	8r	.	p	8r	.	p
 8A	wenn	.	8A	wenn	.	8e	wenn	.	8cc#	wenn	.
 =	=	=	=	=	=	=	=	=	=	=	=
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4F#	al-	.	4A	al-	.	4d#X	al-	.	4cc#	al-	.
 4F#	-le	.	4A	-le	.	4d#	-le	.	4b	-le	.
 4BB	Knos-	.	4A	Knos-	.	4d#	Knos-	.	4cc#	Knos-	.
 4BB	-pen	.	4A	-pen	.	4d#	-pen	.	4b	-pen	.
 =	=	=	=	=	=	=	=	=	=	=	=
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2E	sprin-	.	2G#	sprin-	.	2dn	sprin-	.	2dd	sprin-	.
 4E	-gen,	.	4B	-gen,	.	4d	-gen,	.	4g#	-gen,	.
 4F#	dann	.	4A	dann	.	4c#	dann	.	4a	dann	.
 =	=	=	=	=	=	=	=	=	=	=	=
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4.D	mag'	.	4.d	mag'	.	4.f#	mag'	.	4.b	mag'	.
 8D	ich	.	8d	ich	.	8f#	ich	.	8b	ich	.
 !LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
@@ -448,4 +453,5 @@
 2r	.	.	2r	.	.	2r	.	.	2r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
