@@ -12,6 +12,7 @@
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
+*MM120	*	*	*MM120	*	*	*MM120	*	*	*MM120	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4E	Im	f	4e	Im	f	4e	Im	f	4e	Im	f
 =	=	=	=	=	=	=	=	=	=	=	=
@@ -37,7 +38,7 @@
 =	=	=	=	=	=	=	=	=	=	=	=
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2E	sprin-	.	2G#	sprin-	.	2dn	sprin-	.	2dd	sprin-	.
-4E	-gen,	.	4B	-gen,	.	4d	-gen,	.	4g#	-gen,	.
+4E/	-gen,	.	4B	-gen,	.	4d	-gen,	.	4g#	-gen,	.
 4F#	dann	.	4A	dann	.	4c#	dann	.	4a	dann	.
 =	=	=	=	=	=	=	=	=	=	=	=
 *f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
