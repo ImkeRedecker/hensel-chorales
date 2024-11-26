@@ -4,6 +4,8 @@
 *part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
 *staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
 *I"Baß	*	*	*	*I"Tenor	*	*	*	*I"Alt	*	*	*	*I"Sopran	*	*	*
+*>[A,A1,A,A2,B]	*	*	*	*>[A,A1,A,A2,B]	*	*	*	*>[A,A1,A,A2,B]	*	*	*	*>[A,A1,A,A2,B]	*	*	*
+*>A	*	*	*	*>A	*	*	*	*>A	*	*	*	*>A	*	*	*
 *clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
 *k[f#]	*	*	*	*k[f#]	*	*	*	*k[f#]	*	*	*	*k[f#]	*	*	*
 *G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
@@ -92,15 +94,18 @@
 2D	-se-	Lie-	.	2A	-se-	Lie-	.	2d	-se-	-Lie-	.	4.f#	-se-	Lie-	.
 .	.	.	.	.	.	.	.	.	.	.	.	8cc	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*>A1	*	*	*	*>A1	*	*	*	*>A1	*	*	*	*>A1	*	*	*
 2GG	-gen.	.	.	2G	-gen.	.	.	2d	-gen.	.	.	2b	-gen.	.	.
 4r	.	.	.	4r	.	.	.	4r	.	.	.	4r	.	.	.
 4D	Die	.	.	4D	Die	.	.	4d	Die	.	.	4d	Die	.	.
 =:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16	=:|!16
+*>A2	*	*	*	*>A2	*	*	*	*>A2	*	*	*	*>A2	*	*	*
 2GG	.	-ben.	.	2G	.	-ben.	.	2d	.	-ben.	.	2b	.	-ben.	.
 !LO:TX:a:t=solo	!	!	!	!LO:TX:a:t=solo	!	!	!	!LO:TX:a:t=solo	!	!	!	!LO:TX:a:t=solo	!	!	!
 4r	.	.	.	4r	.	.	.	4r	.	.	.	4r	.	.	.
 4G	Da	.	p	4B	Da	.	p	4d	Da	.	p	4b	Da	.	p
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*>B	*	*	*	*>B	*	*	*	*>B	*	*	*	*>B	*	*	*
 4.F#	zieht	.	.	4.A	zieht	.	.	4.d#X	zieht	.	.	4.b	zieht	.	.
 8F#	die	.	.	8A	die	.	.	8d#	die	.	.	8b	die	.	.
 4E	An-	.	.	4G	An-	.	.	4e	An-	.	.	4b	An-	.	.
