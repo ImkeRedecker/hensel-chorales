@@ -355,11 +355,13 @@
 4E	darf	.	4B	darf	.	4e	darf	.	4g#	darf	.
 4E	sich	.	4c#	sich	.	4e	sich	.	4a	sich	.
 !LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4.E#X	was	.	4.c#	was	.	4.g#	was	.	4.cc#	was	.
 8E#	er-	.	8d	er-	.	8g#	er-	.	8b	er-	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 2E#X	-küh-	.	2d	-küh-	.	2g#	-küh-	.	2b	-küh-	.
 4F#	-nen,	.	4c#	-nen,	.	4f#	-nen,	.	4a	-nen,	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4A	o	.	4A	o	.	4a	o	.	4a	o	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
 4.Gn	fri-	f	4.c#	fri-	f	4.a	fri-	f	4.ee	fri-	f
@@ -368,6 +370,7 @@
 4A	o	.	4A	o	.	4a	o	.	4a	o	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
 4.E	fri-	.	4.A	fri-	.	4.c#	fri-	.	4.ggn	fri-	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 8D#X	-sche	.	8A	-sche	.	8B#X	-sche	.	8ff#	-sche	.
 4D#	Lust,	.	4A	Lust,	.	4B#	Lust,	.	4ff#	Lust,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
@@ -384,6 +387,7 @@
 .	.	.	16BJ)	.	.	.	.	.	16ddJ)	.	.
 4AA	-nen,	.	4A	-nen,	.	4a	-nen,	.	4cc#	-nen,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 8A	o	.	8A	o	.	8a	o	.	8a	o	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
 4.Gn	fri-	.	4.c#	fri-	.	4.a	fri-	.	4.ee	fri-	.
@@ -392,6 +396,7 @@
 4A	o	.	4A	o	.	4a	o	.	4a	o	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
 4.E	fri-	.	4.c#	fri-	.	4.a	fri-	.	4.ggn	fri-	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 8D#X	-sche	.	8B#X	-sche	.	8a	-sche	.	8ff#	-sche	.
 4D#	Lust,	.	4B#	Lust,	.	4a	Lust,	.	4ff#	Lust,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
@@ -421,10 +426,12 @@
 4r	.	.	4r	.	.	4f#	Lust,	.	4dd	Lust,	.
 4AA	Ge-	.	4A	Ge-	.	4e	Ge-	.	4cc#	Ge-	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 2.BB	-sang,	.	2.A	-sang,	.	2.d#X	-sang,	.	(2cc#	-sang,	.
 .	.	.	.	.	.	.	.	.	4b)	.	.
 4B	Ge-	.	4d#X	Ge-	.	4a	Ge-	.	4ff#	Ge-	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2.E	-sang,	.	2.dn	-sang,	.	2.g#	-sang,	.	(2ff#	-sang,	.
 .	.	.	.	.	.	.	.	.	4ee)	.	.
 4E	im	.	4B	im	.	4d	im	.	4g#	im	.
