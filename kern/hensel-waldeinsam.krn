@@ -32,7 +32,6 @@
 8D	die	.	8d	die	.	8a	die	.	8ff	die	.
 4D	Welt,	.	4d	Welt,	.	4a	Welt,	.	4ff	Welt,	.
 4F	ein	.	4A	ein	.	4a	ein	.	4dd	ein	.
-!!linebreak:original
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4E	strahl-	.	4B	strahl-	.	4g#X	strahl-	.	4ee	strahl-	.
 4E	-end	.	4G#X	-end	.	4e	-end	.	4b	-end	.
@@ -60,7 +59,6 @@
 .	.	.	.	.	.	.	.	.	8aJ)	.	.
 4B	-zelt,	.	4d	-zelt,	.	4g	-zelt,	.	4g	-zelt,	.
 4G	wie	.	4B	wie	.	4fn	wie	.	4g	wie	.
-!!linebreak:original
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2C	hoff-	.	2c	hoff-	.	2.e	hoff-	.	(2g	hoff-	.
 2C	.	.	2c	.	.	.	.	.	4cc)	.	.
@@ -95,7 +93,6 @@
 2.E	Baum.	.	2.B	Baum.	.	(2d#X	Baum.	.	(2a	Baum.	.
 .	.	.	.	.	.	4e)	.	.	4g#X)	.	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
-!!linebreak:original
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2E	All-	.	2G#X	All-	.	2e	All-	.	2b	All-	.
 4.E	-mäch-	.	4.G#	-mäch-	.	4.e	-mäch-	.	4.b	-mäch-	.
@@ -112,7 +109,6 @@
 4G#X	und	.	4B	und	.	4r	.	.	4r	.	.
 4B	wie-	.	4d	wie-	.	2r	.	.	2r	.	.
 4c	-der	.	4e	-der	.	.	.	.	.	.	.
-!!linebreak:original
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 [1d	wallt	.	[1f	wallt	.	4r	.	.	4r	.	.
 .	.	.	.	.	.	4g#X	und	.	4b	und	.
@@ -152,7 +148,6 @@
 2.G	-traum,	.	2e	-traum,	.	2.g	-traum,	.	2cc	-traum,	.
 .	.	.	4d	.	.	.	.	.	4b	.	.
 4G	der	.	4B	der	.	4d	der	.	4g	der	.
-!!linebreak:original
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 2G	Lie-	.	2c	Lie-	.	2e	Lie-	.	2g	Lie-	.
 2G	-be	.	2c	-be	.	2e	-be	.	2g	-be	.
@@ -171,7 +166,6 @@
 8GG	-sam-	.	8B	-sam-	.	8f	-sam-	.	8dd	-sam-	.
 4C	-keit	.	4c	-keit	.	4e	-keit	.	4cc	-keit	.
 4C	so	.	4G	so	.	4c	so	.	4e	so	.
-!!linebreak:original
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 4.C	rings	.	4.A	rings	.	4.e	rings	.	4.g	rings	.
 8C	und	.	8B	und	.	8d	und	.	8f	und	.
@@ -218,7 +212,6 @@
 2C	-tö-	.	2c	-tö-	.	2.e	-tö-	.	(2g	-tö-	.
 2C	-ne	.	2c	-ne	.	.	.	.	4cc)	.	.
 .	.	.	.	.	.	4g	-ne	.	4ee	-ne	.
-!!linebreak:original
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
 2c	Lied	.	2e	Lied	.	2cc	Lied	.	2gg	Lied	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
@@ -236,7 +229,6 @@
 .	.	.	.	.	.	4d	.	.	4f	.	.
 .	.	.	.	.	.	4e)	.	.	4g)	.	.
 4C	-ne	.	4B-	-ne	.	4e	-ne	.	4cc	-ne	.
-!!linebreak:original
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 2.C	Lied	.	2.A	Lied	.	(4f	Lied	.	(4a	Lied	.
 .	.	.	.	.	.	4g	.	.	4b	.	.
