@@ -49,6 +49,7 @@
 8C#	-ne	.	8G#	-ne	.	8e#	-ne	.	8cc#	-ne	.
 !!linebreak:original
 =	=	=	=	=	=	=	=	=	=	=	=
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4.BB	mit-	.	4.B	mit-	.	4.f#	mit-	.	4.dd	mit-	.
 8BB	-ten-	.	8B	-ten-	.	8f#	-ten-	.	8dd	-ten-	.
 4.AA	-drein	.	4.c#	-drein	.	4.a	-drein	.	4.ee	-drein	.
@@ -57,6 +58,7 @@
 4A	sin-	.	4c#	sin-	.	4gn	sin-	.	4ee	sin-	.
 4D	-gen,	.	4d	-gen,	.	4f#	-gen,	.	4dd	-gen,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D	eins	p	4d	eins	p	4f#	eins	p	4cc#	eins	p
 =	=	=	=	=	=	=	=	=	=	=	=
 4E	sin-	.	4G#	sin-	.	4d	sin-	.	4b	sin-	.
@@ -82,6 +84,7 @@
 !!linebreak:original
 =	=	=	=	=	=	=	=	=	=	=	=
 2Fn	Täu-	.	2d	Täu-	.	2g#	Täu-	.	2b	Täu-	.
+*C:	*	*	*C	*	*	*C:	*	*	*C:	*	*
 4F	-men	.	4cn	-men	.	4a	-men	.	4a	-men	.
 4F#X	das	f	4c	das	f	4d	das	f	4a	das	f
 =	=	=	=	=	=	=	=	=	=	=	=
@@ -103,6 +106,7 @@
 4Gn	Bäu-	.	4B	Bäu-	.	4fn	Bäu-	.	4dd	Bäu-	.
 4Cn	-men,	.	4cn	-men,	.	4e	-men,	.	4ccn	-men,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4E	das	f	4G#X	das	f	4d	das	f	4b	das	f
 !!pagebreak:original
 =	=	=	=	=	=	=	=	=	=	=	=
@@ -133,6 +137,7 @@
 *M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 8F#	Und	p	8A	Und	p	8f#	Und	p	8f#	Und	p
 8F#	sie	.	8B	sie	.	8f#	sie	.	8g#	sie	.
 8F#	ver-	.	8c#	ver-	.	8f#	ver-	.	8a	ver-	.
@@ -242,9 +247,11 @@
 4F#]	.	.	4A#X)	.	.	4f#]	.	.	4cc#)	.	.
 8F#	in	f	8F#	in	f	8f#	in	f	8f#	in	f
 =	=	=	=	=	=	=	=	=	=	=	=
+*h:	*	*	*h:	*	*	*h:	*	*	*h:	*	*
 4BB	Wip-	.	4d	Wip-	.	4f#	Wip-	.	4ff#	Wip-	.
 8C#	-feln,	.	8c#	-feln,	.	8a#X	-feln,	.	8ee	-feln,	.
 4D	Fels	.	4B	Fels	.	4b	Fels	.	4dd	Fels	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 8D#X	und	.	8An	und	.	8f#	und	.	8cc#	und	.
 =	=	=	=	=	=	=	=	=	=	=	=
 4.E	Bü-	.	4.A	Bü-	.	4.e	Bü-	.	4.cc#	Bü-	.
@@ -264,12 +271,14 @@
 =	=	=	=	=	=	=	=	=	=	=	=
 (4.GG#	-gall	.	(4.B	-gall	.	[4.e	-gall	.	(4.dd	-gall	.
 4AA)	.	.	4A)	.	.	4e]	.	.	4cc#)	.	.
+*D:	*	*	*D:	*	*D:	*	*D:	*	*D:	*	*
 8A	da-	.	8A	da-	.	8a	da-	.	8a	da-	.
 =	=	=	=	=	=	=	=	=	=	=	=
 4.Gn	-zwi-	.	4.c#	-zwi-	.	4.a	-zwi-	.	4.ee	-zwi-	.
 4F#	-schen,	.	4d	-schen,	.	4a	-schen,	.	4dd	-schen,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 =	=	=	=	=	=	=	=	=	=	=	=
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 (4E	hell	.	(4G#	hell	.	(4dd	hell	.	(4ff#	hell	.
 8F#)	.	.	8A)	.	.	8cc#)	.	.	8ee)	.	.
 4G#	schmet-	.	4B	schmet-	.	4b	schmet-	.	4dd	schmet-	.
@@ -306,13 +315,16 @@
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8A	sie	mf	8A	sie	mf	8e	sie	mf	8cc#	sie	mf
 =	=	=	=	=	=	=	=	=	=	=	=
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4F#	darf	.	4A	darf	.	4d#X	darf	.	4cc#	darf	.
 4F#	sich	.	4A	sich	.	4d#	sich	.	4b	sich	.
 4BB	wa	.	4A	wa	.	4d#	wa	.	4cc#	wa	.
 4BB	er-	.	4A	er-	.	4d#	er-	.	4b	er-	.
 =	=	=	=	=	=	=	=	=	=	=	=
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2E	-küh-	.	2G#	-küh-	.	2dn	-küh-	.	2dd	-küh-	.
 4E	-nen,	.	4B	-nen,	.	4d	-nen,	.	4g#	-nen,	.
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4F#	o	.	4A	o	.	4c#	o	.	4a	o	.
 !!linebreak:original
 =	=	=	=	=	=	=	=	=	=	=	=
@@ -327,9 +339,11 @@
 4.AA	-sang	.	4.c#	-sang	.	4.a	-sang	.	4.ee	-sang	.
 8A	im	f	8c#	im	f	8a	im	f	8ff#	im	f
 =	=	=	=	=	=	=	=	=	=	=	=
+*D:	*	*	*D:	*	*	*D:	*	*	*	*	*
 4A	Grü-	.	4c#	Grü-	.	4gn	Grü-	.	4ee	Grü-	.
 4D	-nen,	.	4d	-nen,	.	4f#	-nen,	.	4dd	-nen,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D	im	p	4d	im	p	4f#	im	p	4cc#	im	p
 =	=	=	=	=	=	=	=	=	=	=	=
 4E	Grü-	.	4G#	Grü-	.	4d	Grü-	.	4b	Grü-	.
@@ -455,4 +469,111 @@
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: ([s1,s2,s3,s4])
-!!!EED: Imke Redecker
+!!!EED: Imke Redecker!!!COM: Fanny Hensel-Mendelssohn
+!!!OTL: Schweigend sinkt die Nacht
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*staff8	*	*staff7	*staff7	*	*staff6	*staff6	*	*staff5	*staff5	*	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Baß	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*	*I"Baß	*	*I"Tenor	*	*I"Alt	*	*I"Sopran	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-e-]	*	*	*k[b-e-]	*	*	*k[b-e-]	*	*	*k[b-e-]	*	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*B-:	*	*	*B-:	*	*	*B-:	*	*	*B-:	*	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Andante	!
+!!pagebreak:original
+!!linebreak:original
+!!linebreak:original
+!!pagebreak:original
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!	!	!	!	!	!
+!!pagebreak:original
+!!pagebreak:original
+!!pagebreak:original
+!!pagebreak:original
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8)]
+!!!RDF**kern: i = editorial accidental
+!!!!SEGMENT: chor006.krn
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/02/21/-1750/07/28/
+!!!OTL@@DE: Christus, der ist mein Leben
+!!!SCT: BWV 281
+!!!PC#: 6
+!!!AGN: chorale
+**kern	**fb	**kern	**fb	**kern	**fb	**kern	**fb
+*ICvox	*	*ICvox	*	*ICvox	*	*ICvox	*
+*Ibass	*	*Itenor	*	*Ialto	*	*Isoprn	*
+*I"Bass	*	*I"Tenor	*	*I"Alto	*	*I"Soprano	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*omet(c)	*	*omet(c)	*	*omet(c)	*	*omet(c)	*
+*MM100	*	*MM100	*	*MM100	*	*MM100	*
+!!xywh-#13:154,1284,2729,487
+4FF	.	4A	3	4c	5	4f	.
+=1	=1	=1	=1	=1	=1	=1	=1
+4F	.	4c	5	4f	.	4a	3
+4E	.	4c	6	4g	3	4g	3
+4E-	.	4c	6	4f	2	4a	4
+4D	.	4d	.	4f	3	4b-	6
+=2	=2	=2	=2	=2	=2	=2	=2
+8CL	.	4G	5	8eL	3	2cc	.
+8D	.	.	4	8f	3	.	7
+8E	.	4c	6	8g	3	.	6
+8CJ	.	.	.	8eJ	3	.	.
+4F;	.	4c;	5	4f;	.	4a;	3
+4BB-	.	4B-	.	4f	5	4dd	3
+=3	=3	=3	=3	=3	=3	=3	=3
+4AA	.	4c	3	4.f	6	4cc	3
+4GG	.	8dL	5	.	7	4b-	3
+.	.	8B-J	3	8e	6	.	3
+8FFL	.	4c	5	4.f	.	4a	3
+8AAJ	.	.	3	.	6	.	.
+4C	.	4c	.	.	4	4g	5
+.	.	.	.	8e	3	.	5
+=4	=4	=4	=4	=4	=4	=4	=4
+2FF;	.	2c;	5	2f;	.	2a;	3
+4r	.	4ry	.	4ry	.	4r	.
+4A	.	4f	6	[4a	.	4cc	3
+=5	=5	=5	=5	=5	=5	=5	=5
+4BB	.	4f	5	8aL]	7	4dd	3
+.	.	.	5	[8gJ	6	.	3
+4C	.	[4e	3	8gL]	5	4ee	3
+.	.	.	3	16ccL	.	.	3
+.	.	.	3	16b-XJJ	7	.	3
+8DL	.	8eL]	2	4a	5	4ff	3
+8FJ	.	8dJ	6	.	3	.	.
+8AL	.	[4c	3	4a	.	4ee	5
+8GJ	.	.	4	.	2	.	6
+=6	=6	=6	=6	=6	=6	=6	=6
+8FL	.	4c]	5	4a	3	2dd	6
+8DJ	.	.	7	.	5	.	.
+4G	.	4B	n3	4g	.	.	5
+4C;	.	4e;	3	4g;	5	4cc;	.
+4FF	.	4c	5	[4f	.	4a	3
+=7	=7	=7	=7	=7	=7	=7	=7
+4GG	.	4B-X	3	8fL]	7	4b-	3
+.	.	.	3	8eJ	6	.	3
+4AA	.	4c	3	4f	6	4a	.
+4BB-	.	4d	3	4f	5	4g	6
+4C	.	8.cL	.	4e	3	4g	5
+.	.	16B-Jk	7	.	3	.	5
+=8	=8	=8	=8	=8	=8	=8	=8
+2.FF;	.	2.A;	3	2.c;	5	2.f;	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!URL-github: https://github.com/craigsapp/bach-370-chorales/blob/main/kern/chor006.krn
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11108042?page=13 Plate 12021 from the Bavarian State Library
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11108042/manifest
+!!!title: Chorale @{PC#}. @{OTL@@DE} (@{SCT})
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach,
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel,
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/01/06
+!!!filter-keyboard: satb2gs
+!!!filter-ctonic: transpose -k c
+!!!filter-pitch-ranges: prange -a
