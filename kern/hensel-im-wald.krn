@@ -563,17 +563,3 @@
 2.FF;	.	2.A;	3	2.c;	5	2.f;	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!URL-github: https://github.com/craigsapp/bach-370-chorales/blob/main/kern/chor006.krn
-!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11108042?page=13 Plate 12021 from the Bavarian State Library
-!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11108042/manifest
-!!!title: Chorale @{PC#}. @{OTL@@DE} (@{SCT})
-!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach,
-!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel,
-!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part
-!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
-!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
-!!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/06
-!!!filter-keyboard: satb2gs
-!!!filter-ctonic: transpose -k c
-!!!filter-pitch-ranges: prange -a
