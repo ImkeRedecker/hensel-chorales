@@ -13,9 +13,9 @@
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 *MM120	*	*	*MM120	*	*	*MM120	*	*	*MM120	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4E	Im	f	4e	Im	f	4e	Im	f	4e	Im	f
 =	=	=	=	=	=	=	=	=	=	=	=
+4E	Im	f	4e	Im	f	4e	Im	f	4e	Im	f
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4.A	Wald,	.	4.c#	Wald,	.	4.a	Wald,	.	4.ee	Wald,	.
 8A	im	.	8e	im	.	8a	im	.	8cc#	im	.
 .	.	.	.	.	.	.	.	.	8qb/	.	.
@@ -23,117 +23,113 @@
 .	.	.	8BJ	.	.	.	.	.	8g#J	.	.
 4A	-len	.	8c#L	-len	.	4a	-len	.	8aL	-len	.
 .	.	.	8eJ	.	.	.	.	.	8cc#J	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4A	Son-	.	4f#	Son-	.	4a	Son-	.	4dd	Son-	.
 4A	-nen-	.	4d	-nen-	.	4a	-nen-	.	4ff#	-nen-	.
 4A	-schein	.	4c#	-schein	.	4a	-schein	.	4ee	-schein	.
 8r	.	p	8r	.	p	8r	.	p	8r	.	p
 8A	wenn	.	8A	wenn	.	8e	wenn	.	8cc#	wenn	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4F#	al-	.	4A	al-	.	4d#X	al-	.	4cc#	al-	.
 4F#	-le	.	4A	-le	.	4d#	-le	.	4b	-le	.
 4BB	Knos-	.	4A	Knos-	.	4d#	Knos-	.	4cc#	Knos-	.
 4BB	-pen	.	4A	-pen	.	4d#	-pen	.	4b	-pen	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2E	sprin-	.	2G#	sprin-	.	2dn	sprin-	.	2dd	sprin-	.
 4E/	-gen,	.	4B	-gen,	.	4d	-gen,	.	4g#	-gen,	.
 4F#	dann	.	4A	dann	.	4c#	dann	.	4a	dann	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 *f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
-4.D	mag'	.	4.d	mag'	.	4.f#	mag'	.	4.b	mag'	.
+4.D	mag’	.	4.d	mag’	.	4.f#	mag’	.	4.b	mag’	.
 8D	ich	.	8d	ich	.	8f#	ich	.	8b	ich	.
 !LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
 4.C#	ger-	.	4.G#	ger-	.	4.e#X	ger-	.	4.cc#	ger-	.
 8C#	-ne	.	8G#	-ne	.	8e#	-ne	.	8cc#	-ne	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 *D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4.BB	mit-	.	4.B	mit-	.	4.f#	mit-	.	4.dd	mit-	.
 8BB	-ten-	.	8B	-ten-	.	8f#	-ten-	.	8dd	-ten-	.
 4.AA	-drein	.	4.c#	-drein	.	4.a	-drein	.	4.ee	-drein	.
 8A	eins	f	8c#	eins	f	8a	eins	f	8ff#	eins	f
-=	=	=	=	=	=	=	=	=	=	=	=
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4A	sin-	.	4c#	sin-	.	4gn	sin-	.	4ee	sin-	.
 4D	-gen,	.	4d	-gen,	.	4f#	-gen,	.	4dd	-gen,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D	eins	p	4d	eins	p	4f#	eins	p	4cc#	eins	p
-=	=	=	=	=	=	=	=	=	=	=	=
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4E	sin-	.	4G#	sin-	.	4d	sin-	.	4b	sin-	.
 4AA	-gen.	.	4A	-gen.	.	4c#	-gen.	.	4a	-gen.	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 4E	Wie	.	4G#	Wie	.	4e	Wie	.	4e	Wie	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 4E	mir	.	4B	mir	.	4e	mir	.	4g#	mir	.
 4E	zu	.	4c#	zu	.	4e	zu	.	4a	zu	.
 4.E	Mut	.	4.e	Mut	.	4.g#	Mut	.	4.cc#	Mut	.
 8E	in	.	8d	in	.	8g#	in	.	8b	in	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4E	Leid	.	4c#	Leid	.	4a	Leid	.	4a	Leid	.
 4E	und	.	4A	und	.	4e	und	.	4cc#	und	.
 4E	Lust	.	4B	Lust	.	4g#	Lust	.	4ee	Lust	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8E	im	.	8G#	im	.	8e	im	.	8e	im	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4E	Wa-	.	4B	Wa-	.	4e	Wa-	.	4g#	Wa-	.
 4E	-chen	.	4cn	-chen	.	4e	-chen	.	4a	-chen	.
 4.E	und	.	4.e	und	.	4.g#	und	.	4.ccn	und	.
 8E	im	.	8d	im	.	8g#	im	.	8b	im	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2Fn	Täu-	.	2d	Täu-	.	2g#	Täu-	.	2b	Täu-	.
 *C:	*	*	*C	*	*	*C:	*	*	*C:	*	*
 4F	-men	.	4cn	-men	.	4a	-men	.	4a	-men	.
 4F#X	das	f	4c	das	f	4d	das	f	4a	das	f
-=	=	=	=	=	=	=	=	=	=	=	=
-4Gn	stimm'	.	4B	stimm'	.	4d	stimm'	.	4gn	stimm'	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4Gn	stimm’	.	4B	stimm’	.	4d	stimm’	.	4gn	stimm’	.
 4G	ich	.	4d	ich	.	4gn	ich	.	4b	ich	.
 4.G	an	.	4.gn	an	.	4.b	an	.	4.ee	an	.
 8G	aus	.	8fn	aus	.	8b	aus	.	8dd	aus	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4Gn	vol-	.	4e	vol-	.	4ccn	vol-	.	4ccn	vol-	.
 4G	-ler	.	4cn	-ler	.	4gn	-ler	.	4ee	-ler	.
 4.G	Brust	.	4.d	Brust	.	4.b	Brust	.	4.ggn	Brust	.
 8G	den	.	8d	den	.	8b	den	.	8ffn	den	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 4Gn	Bäu-	.	4d	Bäu-	.	4b	Bäu-	.	4ffn	Bäu-	.
 4Cn	-men,	.	4cn	-men,	.	4ccn	-men,	.	4ee	-men,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 4E	den	p	4Gn	den	p	4gn	den	p	4ee	den	p
-=	=	=	=	=	=	=	=	=	=	=	=
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4Gn	Bäu-	.	4B	Bäu-	.	4fn	Bäu-	.	4dd	Bäu-	.
 4Cn	-men,	.	4cn	-men,	.	4e	-men,	.	4ccn	-men,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4E	das	f	4G#X	das	f	4d	das	f	4b	das	f
-!!pagebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
-2.Fn	stimm'	.	2.A	stimm'	.	4cn	stimm'	.	2.a	stimm'	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2.Fn	stimm’	.	2.A	stimm’	.	4cn	stimm’	.	2.a	stimm’	.
 .	.	.	.	.	.	4B	ich	.	.	.	.
 .	.	.	.	.	.	4c	an	.	.	.	.
 4F	ich	.	4A	ich	.	4c#X	aus	.	4a	ich	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2Fn	an	.	2A	an	.	2d	vol-	.	4dd	an	.
 .	.	.	.	.	.	.	.	.	4ccn	aus	.
 2F	aus	.	2A	aus	.	2d#X	-ler	.	4b	vol-	.
 .	.	.	.	.	.	.	.	.	4a	-ler	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 2.E	vol-	.	(2c#X	vol-	.	2.e	Brust	.	(2ee	Brust	.
 .	.	.	4B)	.	.	.	.	.	4dd)	.	.
 4E	-ler	.	4A	-ler	.	4e	den	.	4cc#X	den	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 (2D#X	Brust	.	(2B	Brust	.	2a	Bäu-	.	2ff#	Bäu-	.
 4E)	.	.	4d)	.	.	4g#	-men,	.	4b	-men,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8E	den	.	8e	den	.	8g#	den	.	8cc#	den	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 4E	Bäu-	.	4d	Bäu-	.	4g#	Bäu-	.	4b	Bäu-	.
 4AA	-men.	.	4c#	-men.	.	4a	-men.	.	4a	-men.	.
 2r	.	.	2r	.	.	2r	.	.	2r	.	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 *M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
@@ -141,166 +137,161 @@
 8F#	Und	p	8A	Und	p	8f#	Und	p	8f#	Und	p
 8F#	sie	.	8B	sie	.	8f#	sie	.	8g#	sie	.
 8F#	ver-	.	8c#	ver-	.	8f#	ver-	.	8a	ver-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4F#	-ste-	.	4d	-ste-	.	4f#	-ste-	.	4b	-ste-	.
 8F#	-hen	.	8c#	-hen	.	8f#	-hen	.	8a	-hen	.
 4F#	mich	.	4B	mich	.	4f#	mich	.	4g#	mich	.
 8F#	gar	.	8B	gar	.	8e#X	gar	.	8dd	gar	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4F#	fein,	.	4A	fein,	.	4f#	fein,	.	4cc#	fein,	.
 8F#	die	.	8A	die	.	8f#	die	.	8cc#	die	.
 4F#	Blät-	.	4c#	Blät-	.	4a	Blät-	.	4ff#	Blät-	.
 8F#	-ter	.	8c#	-ter	.	8a	-ter	.	8ee	-ter	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 4F#	al-	.	4B	al-	.	4b	al-	.	4dd	al-	.
 8F#	-ler	.	8A	-ler	.	8f#	-ler	.	8cc#	-ler	.
 4.F#	lau	.	(4G#	lau	.	4.f#	lau	.	(4b	lau	.
 .	.	.	8B)	.	.	.	.	.	8dd)	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4F#	schen,	.	4A	schen,	.	4f#	schen,	.	4cc#	schen,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8F#	und	.	8A	und	.	8f#	und	.	8f#	und	.
-8F#	fall'n	.	8B	fall'n	.	8f#	fall'n	.	8g#	fall'n	.
+8F#	fall’n	.	8B	fall’n	.	8f#	fall’n	.	8g#	fall’n	.
 8E	am	.	8c#	am	.	8f#	am	.	8a	am	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 4D	rech-	.	4d	rech-	.	4f#	rech-	.	4b	rech-	.
 8D	-ten	.	8c#	-ten	.	8f#	-ten	.	8a	-ten	.
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
 4D	Or-	<	4B	Or-	<	4e#X	Or-	<	4g#	Or-	<
 8C#	-te	.	8A	-te	.	8f#	-te	.	8f#	-te	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 (4.BB	ein	[	(4.G#	ein	[	(4.e#X	ein	[	(4.dd	ein	[
 4.AA)	.	.	4.A)	.	.	4.f#)	.	.	4cc#)	.	.
 .	.	.	.	.	.	.	.	.	8ff#	mit	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 4r	.	.	4r	.	.	4r	.	.	2.cc#	Rau-	.
 8C#	mit	.	8c#	mit	.	8a	mit	.	.	.	.
 4.E#X	Rau-	.	(4B	Rau-	.	(4g#	Rau-	.	.	.	.
 .	.	.	8c#)	.	.	8a)	.	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 4F#	-schen.	.	4A	-schen.	.	4f#	-schen.	.	4cc#	-schen.	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8F#	Und	pp	8A	Und	pp	8f#	Und	pp	8f#	Und	pp
 8F#	sie	.	8B	sie	.	8f#	sie	.	8g#	sie	.
 8F#	-ver-	.	8c#	-ver-	.	8f#	ver-	.	8a	ver-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 4F#	-ste-	.	4d	-ste-	.	4f#	-ste-	.	4b	-ste-	.
 8F#	-hen	.	8c#	-hen	.	8f#	-hen	.	8a	-hen	.
 4F#	mich	.	4B	mich	.	4e#X	mich	.	4g#	mich	.
 8F#	gar	.	8B	gar	.	8e#	gar	.	8dd	gar	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 4F#	fein,	.	4A#X	fein,	.	4f#	fein,	.	4cc#	fein,	.
 8F#	die	.	8A#	die	.	8f#	die	.	8cc#	die	.
 4F#	Blät-	.	4B	Blät-	.	4g#	Blät-	.	4ff#	Blät-	.
 8F#	-ter	.	8c#	-ter	.	8a#X	-ter	.	8ee	-ter	.
-!!pagebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 !	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco rit.	!	!
 4F#	al-	.	4d	al-	.	4b	al-	.	4dd	al-	.
 8F#	-le	.	8e	-le	.	8a	-le	.	8cc#	-le	.
 4.F#	lau-	.	4.e#X	lau-	.	4.g#	lau-	.	(4b	lau-	.
 .	.	.	.	.	.	.	.	.	8dd)	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 4F#;	-schen,	.	4e#X;	-schen,	.	4g#;	-schen,	.	4dd;	-schen,	.
 !	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=a tempo	!	!
 8r	.	.	8r	.	.	8r	.	.	8cc#	und	f
-4r	.	.	4r	.	.	4r	.	.	4ff#	fall'n	.
+4r	.	.	4r	.	.	4r	.	.	4ff#	fall’n	.
 8r	.	.	8r	.	.	8c#	und	f	8ee	am	.
-=	=	=	=	=	=	=	=	=	=	=	=
-4r	.	.	4r	.	.	4f#	fall'n	.	4dd	rech-	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+4r	.	.	4r	.	.	4f#	fall’n	.	4dd	rech-	.
 8r	.	.	8F#	und	f	8e	am	.	8cc#	-ten	.
 4r	.	.	4B	fal-	.	4d	rech-	.	4b	Or-	.
 8C#	und	f	8c#	-len	.	8c#	-ten	.	8a	-te	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 4E#X	fal-	.	(4B	ein	.	4d	Or-	.	(4g#	ein	.
 8F#	-len	.	8A)	.	.	8c#	-te	.	8f#	.	.
 4G#	ein	.	(4B	mit	.	4c#	ein	.	4e#X)	.	.
 8A	mit	.	8c#)	.	.	8c#	mit	.	8f#	mit	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 4.C#	Rau-	.	4.A	Rau-	.	4.f#	Rau-	.	(8cc#L	Rau-	.
 .	.	.	.	.	.	.	.	.	8dd#X	.	.
 .	.	.	.	.	.	.	.	.	8ee#XJ	.	.
 4C#	-schen,	.	4A	-schen,	.	4f#	-schen,	.	8ff#L	.	.
 .	.	.	.	.	.	.	.	.	8een	.	.
 8r	.	.	8r	.	.	8r	.	.	8ddnJ	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 4r	.	.	4r	.	.	4r	.	.	2.cc#)	.	.
 8C#	mit	.	8A	mit	.	8f#	mit	.	.	.	.
 4.C#	Rau-	.	(4G#	Rau-	.	(4e#X	Rau-	.	.	.	.
 .	.	.	8B)	.	.	8g#)	.	.	.	.	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 4F#	-schen.	.	4A	-schen.	.	4f#	-schen.	.	4cc#	-schen.	.
 8F#	Und	p	8A#X	Und	p	8f#	Und	p	8f#	Und	p
 4F#	wei-	.	8A#L	wei-	.	4f#	wei-	.	8f#L	wei-	.
 .	.	.	8BJ	.	.	.	.	.	8g#J	.	.
 8F#	-ter	.	8c#	-ter	.	8f#	-ter	.	8a#X	-ter	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 4F#	wan-	.	4d	wan-	.	4f#	wan-	.	4b	wan-	.
 8F#	-delt	.	8c#	-delt	.	8f#	-delt	.	8a#X	-delt	.
 !LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
 4F#	Schall	.	4e	Schall	.	4f#	Schall	.	4cc#	Schall	.
 8F#	und	.	8d	und	.	8f#	und	.	8b	und	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 [4.F#	Hall	.	(4.B	Hall	.	[4.f#	Hall	.	(4.dd	Hall	.
 4F#]	.	.	4A#X)	.	.	4f#]	.	.	4cc#)	.	.
 8F#	in	f	8F#	in	f	8f#	in	f	8f#	in	f
-=	=	=	=	=	=	=	=	=	=	=	=
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
 *h:	*	*	*h:	*	*	*h:	*	*	*h:	*	*
 4BB	Wip-	.	4d	Wip-	.	4f#	Wip-	.	4ff#	Wip-	.
 8C#	-feln,	.	8c#	-feln,	.	8a#X	-feln,	.	8ee	-feln,	.
 4D	Fels	.	4B	Fels	.	4b	Fels	.	4dd	Fels	.
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 8D#X	und	.	8An	und	.	8f#	und	.	8cc#	und	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 4.E	Bü-	.	4.A	Bü-	.	4.e	Bü-	.	4.cc#	Bü-	.
 4E	-schen,	.	4G#	-schen,	.	4e	-schen,	.	4b	-schen,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 4.C#^	hell	.	4.e^	hell	.	4.a^	hell	.	4.ee^	hell	.
 4C#	schmet-	.	4A	schmet-	.	4e	schmet-	.	8cc#L	schmet-	.
 .	.	.	.	.	.	.	.	.	8bJ	.	.
 8C#	-tert	.	8A	-tert	.	8e	-tert	.	8a	-tert	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 4D	auch	.	4B	auch	.	4e	auch	.	4g#	auch	.
 8C#	Frau	.	8A	Frau	.	8e	Frau	.	8a	Frau	.
 4BB	Nach-	.	4d	Nach-	.	4g#	Nach-	.	4b	Nach-	.
 8AA	-ti-	.	8c#	-ti-	.	8a	-ti-	.	8cc#	-ti-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 (4.GG#	-gall	.	(4.B	-gall	.	[4.e	-gall	.	(4.dd	-gall	.
 4AA)	.	.	4A)	.	.	4e]	.	.	4cc#)	.	.
 *D:	*	*	*D:	*	*D:	*	*D:	*	*D:	*	*
 8A	da-	.	8A	da-	.	8a	da-	.	8a	da-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
 4.Gn	-zwi-	.	4.c#	-zwi-	.	4.a	-zwi-	.	4.ee	-zwi-	.
 4F#	-schen,	.	4d	-schen,	.	4a	-schen,	.	4dd	-schen,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 (4E	hell	.	(4G#	hell	.	(4dd	hell	.	(4ff#	hell	.
 8F#)	.	.	8A)	.	.	8cc#)	.	.	8ee)	.	.
 4G#	schmet-	.	4B	schmet-	.	4b	schmet-	.	4dd	schmet-	.
 8A	-tert	.	8c#	-tert	.	8a	-tert	.	8cc#	-tert	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 4B	auch	.	4d	auch	.	4g#	auch	.	4b	auch	.
 8A	Frau	.	8c#	Frau	.	8a	Frau	.	8cc#	Frau	.
 4G#	Nach-	.	4B	Nach-	.	4b	Nach-	.	4dd	Nach-	.
 8F#	-ti-	.	8A	-ti-	.	8cc#	-ti-	.	8ee	-ti-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 (4.E	-gall	.	(4.G#	-gall	.	(4.dd	-gall	.	(4.ff#	-gall	.
 4B)	.	.	4d)	.	.	4g#)	.	.	4b)	.	.
 8E	da-	.	8G#	da-	.	8dd	da-	.	8ff#	da-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 4.E	-zwi-	.	4.G#	-zwi-	.	4.dd	-zwi-	.	4.ff#	-zwi-	.
 4.B;	-schen.	.	4.d;	-schen.	.	4.g#;	-schen.	.	4.b;	-schen.	.
-!!pagebreak:original
-=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+=||52	=||52	=||52	=||52	=||52	=||52	=||52	=||52	=||52	=||52	=||52	=||52
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 4E	Da	f	4e	Da	f	4e	Da	f	4e	Da	f
-=	=	=	=	=	=	=	=	=	=	=	=
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
 4.A	Fühlt	.	4.c#	Fühlt	.	4.a	Fühlt	.	4.ee	Fühlt	.
 8A	die	.	8e	die	.	8a	die	.	8cc#	die	.
 .	.	.	.	.	.	.	.	.	8qb/	.	.
@@ -308,120 +299,116 @@
 .	.	.	8BJ	.	.	.	.	.	8g#J	.	.
 4A	am	.	8c#L	am	.	4a	am	.	8aL	am	.
 .	.	.	8eJ	.	.	.	.	.	8cc#J	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
 4A	eig-	.	4f#	eig-	.	4a	eig-	.	4dd	eig-	.
 4A	-nen	.	4d	-nen	.	4a	-nen	.	4ff#	-nen	.
 4A	Klang,	.	4c#	Klang,	.	4a	Klang,	.	4ee	Klang,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8A	sie	mf	8A	sie	mf	8e	sie	mf	8cc#	sie	mf
-=	=	=	=	=	=	=	=	=	=	=	=
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 *E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4F#	darf	.	4A	darf	.	4d#X	darf	.	4cc#	darf	.
 4F#	sich	.	4A	sich	.	4d#	sich	.	4b	sich	.
 4BB	wa	.	4A	wa	.	4d#	wa	.	4cc#	wa	.
 4BB	er-	.	4A	er-	.	4d#	er-	.	4b	er-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2E	-küh-	.	2G#	-küh-	.	2dn	-küh-	.	2dd	-küh-	.
 4E	-nen,	.	4B	-nen,	.	4d	-nen,	.	4g#	-nen,	.
 *f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4F#	o	.	4A	o	.	4c#	o	.	4a	o	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 !LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
 4.D	fri-	.	4.d	fri-	.	4.f#	fri-	.	4.b	fri-	.
 8D	-sche	.	8d	-sche	.	8f#	-sche	.	8b	-sche	.
 4.C#	Lust,	.	4.G#	Lust,	.	4.e#X	Lust,	.	4.cc#	Lust,	.
 8C#	Ge-	.	8G#	Ge-	.	8e#	Ge-	.	8cc#	Ge-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 4.BB	-sang,	.	4.B	-sang,	.	4.f#	-sang,	.	4.dd	-sang,	.
 8BB	Ge-	.	8B	Ge-	.	8f#	Ge-	.	8dd	Ge-	.
 4.AA	-sang	.	4.c#	-sang	.	4.a	-sang	.	4.ee	-sang	.
 8A	im	f	8c#	im	f	8a	im	f	8ff#	im	f
-=	=	=	=	=	=	=	=	=	=	=	=
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 *D:	*	*	*D:	*	*	*D:	*	*	*	*	*
 4A	Grü-	.	4c#	Grü-	.	4gn	Grü-	.	4ee	Grü-	.
 4D	-nen,	.	4d	-nen,	.	4f#	-nen,	.	4dd	-nen,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D	im	p	4d	im	p	4f#	im	p	4cc#	im	p
-=	=	=	=	=	=	=	=	=	=	=	=
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
 4E	Grü-	.	4G#	Grü-	.	4d	Grü-	.	4b	Grü-	.
 4AA	-nen!	.	4A	-nen!	.	4c#	-nen!	.	4a	-nen!	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 4E	Da	.	4G#	Da	.	4e	Da	.	4e	Da	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
 4E	fühlt	.	4B	fühlt	.	4e	fühlt	.	4g#	fühlt	.
 4E	die	.	4c#	die	.	4e	die	.	4a	die	.
 4.E	Brust	.	4.e	Brust	.	4.g#	Brust	.	4.cc#	Brust	.
 8E	am	.	8d	am	.	8g#	am	.	8b	am	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
 4E	eig-	.	4c#	eig-	.	4a	eig-	.	4a	eig-	.
 4E	-nen	.	4A	-nen	.	4e	-nen	.	4cc#	-nen	.
 4E	Klang,	.	4B	Klang,	.	4g#	Klang,	.	4ee	Klang,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8E	sie	.	8G#	sie	.	8e	sie	.	8e	sie	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 4E	darf	.	4B	darf	.	4e	darf	.	4g#	darf	.
 4E	sich	.	4c#	sich	.	4e	sich	.	4a	sich	.
 !LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
 *f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4.E#X	was	.	4.c#	was	.	4.g#	was	.	4.cc#	was	.
 8E#	er-	.	8d	er-	.	8g#	er-	.	8b	er-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 2E#X	-küh-	.	2d	-küh-	.	2g#	-küh-	.	2b	-küh-	.
 4F#	-nen,	.	4c#	-nen,	.	4f#	-nen,	.	4a	-nen,	.
 *D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4A	o	.	4A	o	.	4a	o	.	4a	o	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
 4.Gn	fri-	f	4.c#	fri-	f	4.a	fri-	f	4.ee	fri-	f
 8F#	-sche	.	8d	-sche	.	8a	-sche	.	8dd	-sche	.
 4F#	Lust,	.	4d	Lust,	.	4a	Lust,	.	4dd	Lust,	.
 4A	o	.	4A	o	.	4a	o	.	4a	o	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
 4.E	fri-	.	4.A	fri-	.	4.c#	fri-	.	4.ggn	fri-	.
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 8D#X	-sche	.	8A	-sche	.	8B#X	-sche	.	8ff#	-sche	.
 4D#	Lust,	.	4A	Lust,	.	4B#	Lust,	.	4ff#	Lust,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8D#	Ge	.	8A	Ge	.	8B#	Ge	.	8ff#	Ge	.
-!!pagebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
 4E	sang,	.	4A	sang,	.	4c#	sang,	.	4aa	sang,	.
 4E	Ge-	.	4c#	Ge-	.	4e	Ge-	.	4ee	Ge-	.
 4E	-sang	.	4e	-sang	.	4a	-sang	.	4cc#	-sang	.
 4E	im	.	4c#	im	.	4e	im	.	4a	im	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
 2E	Grü-	.	(4.d	Grü-	.	(4e	Grü-	.	(4.b	Grü-	.
 .	.	.	.	.	.	4g#)	.	.	.	.	.
-.	.	.	16c#LL	.	.	.	.	.	16cc#LL	.	.
-.	.	.	16BJJ)	.	.	.	.	.	16ddJJ)	.	.
+.	.	.	16c#L	.	.	.	.	.	16cc#L	.	.
+.	.	.	16BJ)	.	.	.	.	.	16ddJ)	.	.
 4AA	-nen,	.	4A	-nen,	.	4a	-nen,	.	4cc#	-nen,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 *D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 8A	o	.	8A	o	.	8a	o	.	8a	o	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
 4.Gn	fri-	.	4.c#	fri-	.	4.a	fri-	.	4.ee	fri-	.
 8F#	-sche	.	8d	-sche	.	8a	-sche	.	8dd	-sche	.
 4F#	Lust,	.	4d	Lust,	.	4a	Lust,	.	4dd	Lust,	.
 4A	o	.	4A	o	.	4a	o	.	4a	o	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
 4.E	fri-	.	4.c#	fri-	.	4.a	fri-	.	4.ggn	fri-	.
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 8D#X	-sche	.	8B#X	-sche	.	8a	-sche	.	8ff#	-sche	.
 4D#	Lust,	.	4B#	Lust,	.	4a	Lust,	.	4ff#	Lust,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8D#	Ge-	.	8B#	Ge-	.	8a	Ge-	.	8ff#	Ge-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
 4E	-sang,	.	4c#	-sang,	.	4a	-sang,	.	4aa	-sang,	.
 4r	.	.	4r	.	.	4r	.	.	4ee	o	.
 2r	.	.	2r	.	.	2r	.	.	8ddL	fri-	.
 .	.	.	.	.	.	.	.	.	8cc#J	.	.
 .	.	.	.	.	.	.	.	.	8bL	-sche	.
 .	.	.	.	.	.	.	.	.	8aJ	.	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
 4r	.	.	4r	.	.	4r	.	.	8g#L	Lust	.
 .	.	.	.	.	.	.	.	.	8aJ	.	.
 4E	im	.	4c#	im	.	4a	im	.	8cc#L	im	.
@@ -429,158 +416,50 @@
 2E	Grü-	.	(4d	Grü-	.	(4g#	Grü-	.	(4.ee	Grü-	.
 .	.	.	4B)	.	.	4d)	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	8g#)	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
 4AA	-nen!	.	4A	-nen!	.	4c#	-nen!	.	4a	-nen!	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 2r	.	.	2r	.	.	2cc#	O	.	2ee	O	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
 2r	.	.	2r	.	.	4a	fri-	.	4cc#	fri-	.
 .	.	.	.	.	.	4c#	-sche	.	4a	-sche	.
 4r	.	.	4r	.	.	4f#	Lust,	.	4dd	Lust,	.
 4AA	Ge-	.	4A	Ge-	.	4e	Ge-	.	4cc#	Ge-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
 *E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 2.BB	-sang,	.	2.A	-sang,	.	2.d#X	-sang,	.	(2cc#	-sang,	.
 .	.	.	.	.	.	.	.	.	4b)	.	.
 4B	Ge-	.	4d#X	Ge-	.	4a	Ge-	.	4ff#	Ge-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 2.E	-sang,	.	2.dn	-sang,	.	2.g#	-sang,	.	(2ff#	-sang,	.
 .	.	.	.	.	.	.	.	.	4ee)	.	.
 4E	im	.	4B	im	.	4d	im	.	4g#	im	.
-!!linebreak:original
-=	=	=	=	=	=	=	=	=	=	=	=
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
 4E	Grü-	.	4B	Grü-	.	4d	Grü-	.	4g#	Grü-	.
 4AA	-nen!	.	4A	-nen!	.	4c#	-nen!	.	4a	-nen!	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
 8A	O	f	8A	O	f	8c#	O	f	8c#	O	f
-=	=	=	=	=	=	=	=	=	=	=	=
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
 4.A	fri-	.	4.c#	fri-	.	4.e	fri-	.	4.e	fri-	.
 8A	-sche	.	8c#	-sche	.	8e	-sche	.	8a	-sche	.
 4.A	Lust,	.	4.e	Lust,	.	4.a	Lust,	.	4.cc#	Lust,	.
 8A	Ge-	.	8c#	Ge-	.	8a	Ge-	.	8ee	Ge-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
 2.AA	-sang,	.	2.c#	-sang,	.	2.e	-sang,	.	(2aa	-sang,	.
 .	.	.	.	.	.	.	.	.	4ee)	.	.
 4A	Ge-	.	4e	Ge-	.	4a	Ge-	.	4cc#	Ge-	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
 4A	-sang	.	4c#	-sang	.	4e	-sang	.	4a	-sang	.
 4AA	im	.	4A	im	.	4c#	im	.	4e	im	.
 2E	Grü-	.	2G#	Grü-	.	2d	Grü-	.	(4.cc#	Grü-	.
 .	.	.	.	.	.	.	.	.	8b)	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
 4AA	-nen!	.	4A	-nen!	.	4c#	-nen!	.	4a	-nen!	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 2r	.	.	2r	.	.	2r	.	.	2r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: ([s1,s2,s3,s4])
-!!!EED: Imke Redecker!!!COM: Fanny Hensel-Mendelssohn
-!!!OTL: Schweigend sinkt die Nacht
-**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**kern	**text	**kern	**text	**kern	**text
-*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff8	*staff8	*	*staff7	*staff7	*	*staff6	*staff6	*	*staff5	*staff5	*	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
-*I"Baß	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*	*I"Baß	*	*I"Tenor	*	*I"Alt	*	*I"Sopran	*
-*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
-*k[b-e-]	*	*	*k[b-e-]	*	*	*k[b-e-]	*	*	*k[b-e-]	*	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
-*B-:	*	*	*B-:	*	*	*B-:	*	*	*B-:	*	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*
-*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-*met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Andante	!
-!!pagebreak:original
-!!linebreak:original
-!!linebreak:original
-!!pagebreak:original
-!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!	!	!	!	!	!
-!!pagebreak:original
-!!pagebreak:original
-!!pagebreak:original
-!!pagebreak:original
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8)]
-!!!RDF**kern: i = editorial accidental
-!!!!SEGMENT: chor006.krn
-!!!COM: Bach, Johann Sebastian
-!!!CDT: 1685/02/21/-1750/07/28/
-!!!OTL@@DE: Christus, der ist mein Leben
-!!!SCT: BWV 281
-!!!PC#: 6
-!!!AGN: chorale
-**kern	**fb	**kern	**fb	**kern	**fb	**kern	**fb
-*ICvox	*	*ICvox	*	*ICvox	*	*ICvox	*
-*Ibass	*	*Itenor	*	*Ialto	*	*Isoprn	*
-*I"Bass	*	*I"Tenor	*	*I"Alto	*	*I"Soprano	*
-*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
-*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*F:	*	*F:	*	*F:	*	*F:	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-*omet(c)	*	*omet(c)	*	*omet(c)	*	*omet(c)	*
-*MM100	*	*MM100	*	*MM100	*	*MM100	*
-!!xywh-#13:154,1284,2729,487
-4FF	.	4A	3	4c	5	4f	.
-=1	=1	=1	=1	=1	=1	=1	=1
-4F	.	4c	5	4f	.	4a	3
-4E	.	4c	6	4g	3	4g	3
-4E-	.	4c	6	4f	2	4a	4
-4D	.	4d	.	4f	3	4b-	6
-=2	=2	=2	=2	=2	=2	=2	=2
-8CL	.	4G	5	8eL	3	2cc	.
-8D	.	.	4	8f	3	.	7
-8E	.	4c	6	8g	3	.	6
-8CJ	.	.	.	8eJ	3	.	.
-4F;	.	4c;	5	4f;	.	4a;	3
-4BB-	.	4B-	.	4f	5	4dd	3
-=3	=3	=3	=3	=3	=3	=3	=3
-4AA	.	4c	3	4.f	6	4cc	3
-4GG	.	8dL	5	.	7	4b-	3
-.	.	8B-J	3	8e	6	.	3
-8FFL	.	4c	5	4.f	.	4a	3
-8AAJ	.	.	3	.	6	.	.
-4C	.	4c	.	.	4	4g	5
-.	.	.	.	8e	3	.	5
-=4	=4	=4	=4	=4	=4	=4	=4
-2FF;	.	2c;	5	2f;	.	2a;	3
-4r	.	4ry	.	4ry	.	4r	.
-4A	.	4f	6	[4a	.	4cc	3
-=5	=5	=5	=5	=5	=5	=5	=5
-4BB	.	4f	5	8aL]	7	4dd	3
-.	.	.	5	[8gJ	6	.	3
-4C	.	[4e	3	8gL]	5	4ee	3
-.	.	.	3	16ccL	.	.	3
-.	.	.	3	16b-XJJ	7	.	3
-8DL	.	8eL]	2	4a	5	4ff	3
-8FJ	.	8dJ	6	.	3	.	.
-8AL	.	[4c	3	4a	.	4ee	5
-8GJ	.	.	4	.	2	.	6
-=6	=6	=6	=6	=6	=6	=6	=6
-8FL	.	4c]	5	4a	3	2dd	6
-8DJ	.	.	7	.	5	.	.
-4G	.	4B	n3	4g	.	.	5
-4C;	.	4e;	3	4g;	5	4cc;	.
-4FF	.	4c	5	[4f	.	4a	3
-=7	=7	=7	=7	=7	=7	=7	=7
-4GG	.	4B-X	3	8fL]	7	4b-	3
-.	.	.	3	8eJ	6	.	3
-4AA	.	4c	3	4f	6	4a	.
-4BB-	.	4d	3	4f	5	4g	6
-4C	.	8.cL	.	4e	3	4g	5
-.	.	16B-Jk	7	.	3	.	5
-=8	=8	=8	=8	=8	=8	=8	=8
-2.FF;	.	2.A;	3	2.c;	5	2.f;	.
-==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-
-!!!URL-github: https://github.com/craigsapp/bach-370-chorales/blob/main/kern/chor006.krn
-!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11108042?page=13 Plate 12021 from the Bavarian State Library
-!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11108042/manifest
-!!!title: Chorale @{PC#}. @{OTL@@DE} (@{SCT})
-!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach,
-!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel,
-!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part
-!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
-!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
-!!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/06
-!!!filter-keyboard: satb2gs
-!!!filter-ctonic: transpose -k c
-!!!filter-pitch-ranges: prange -a
+!!!EED: Imke Redecker
