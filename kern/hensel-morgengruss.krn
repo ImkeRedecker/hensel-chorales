@@ -15,8 +15,8 @@
 8E-	hel-	he-	.	8e-	hel-	he-	.	8g	hel-	he-	.	8b-	hel-	he-	.
 8E-	-ler	-be	.	8B-	-ler	-be	.	8g	-ler	-be	.	8ee-	-ler	-be	.
 8E-	Blu-	dich,	.	8Bn	Blu-	dich,	.	8a-	Blu-	dich,	.	8dd	Blu-	dich,	.
-8E-	-men	o	.	8c	-men	o	.	8a-	-men	o	.	16ee-LL	-men	o	.
-.	.	.	.	.	.	.	.	.	.	.	.	16ccJJ	.	.	.
+8E-	-men	o	.	8c	-men	o	.	8a-	-men	o	.	16ee-L	-men	o	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ccJ	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8.E-	Far-	See-	.	8.d	Far-	See-	.	8.f	Far-	See-	.	8.b-	Far-	See-	.
 16E-	-ben-	-le	.	16B-	-ben-	-le	.	16d	-ben-	-le	.	16a-	-ben-	-le	.
@@ -53,8 +53,8 @@
 8E-	Per-	ist	.	8e-	Per-	ist	.	8g	Per-	ist	.	8b-	Per-	ist	.
 8E-	-len-	die	.	8B-	-len-	die	.	8g	-len-	die	.	8ee-	-len-	die	.
 8E-	-glan-	wei-	.	8Bn	-glan-	wei-	.	8a-	-glan-	wei-	.	8dd	-glan-	wei-	.
-8E-	-ze	-te	.	8c	-ze	-te	.	8a-	-ze	-te	.	16ee-LL	-ze	-te	.
-.	.	.	.	.	.	.	.	.	.	.	.	16ccJJ	.	.	.
+8E-	-ze	-te	.	8c	-ze	-te	.	8a-	-ze	-te	.	16ee-L	-ze	-te	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ccJ	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8.E-	steht	schö-	.	8.d	steht	schö-	.	8.f	steht	schö-	.	8.b-	steht	schö-	.
 16E-	die	-ne	.	16B-	die	-ne	.	16d	die	-ne	.	16a-	die	-ne	.
@@ -102,8 +102,8 @@
 2F	4ryy	Schlä-	frei-	.	(4d	Schlä-	frei-	.	(4f	Schlä-	frei-	.	(4.b-	Schlä-	-flu-	.
 .	4qF/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	4ryy	.	.	.	4An)	.	-em	.	4e-)	.	-em	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	16ddLL	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	16ccJJ)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ddL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ccJ)	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 4BB-	-fer.	-Flug.	.	8B-	-fer.	Flug.	.	4d	-fer.	Flug.	.	4b-	-fer.	-ge.	.
@@ -111,16 +111,16 @@
 4r	.	.	.	8c	hel-	he-	.	8r	.	.	.	8r	.	.	.
 .	.	.	.	8B-	-ler,	-be	.	8d	Um	.	p	8f	Um	Ja	p
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-4r	.	.	.	16A-LL	hel-	dich,	.	8B-	hel-	he-	.	8d	hel-	he-	.
-.	.	.	.	16B-JJ	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	16A-L	hel-	dich,	.	8B-	hel-	he-	.	8d	hel-	he-	.
+.	.	.	.	16B-J	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a
-.	.	.	.	16A-LL	-ler	o	<	8d	-ler	-be	<	8f	-ler	-be	<
-.	.	.	.	16B-JJ	.	.	.	.	.	.	.	.	.	.	.
-8r	.	.	.	16A-LL	Blu-	See-	.	8f	Blu-	dich,	.	8b-	Blu-	dich,	.
-.	.	.	.	16B-JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16A-L	-ler	o	<	8d	-ler	-be	<	8f	-ler	-be	<
+.	.	.	.	16B-J	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16A-L	Blu-	See-	.	8f	Blu-	dich,	.	8b-	Blu-	dich,	.
+.	.	.	.	16B-J	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!
-8BB-	tagt	Ja	< p [[	16A-LL	-men	-le,	.	8f	-men	o	[	8dd	-men	o	[
-.	.	.	.	16B-JJ	.	.	[	.	.	.	.	.	.	.	.
+8BB-	tagt	Ja	< p [[	16A-L	-men	-le,	.	8f	-men	o	[	8dd	-men	o	[
+.	.	.	.	16B-J	.	.	[	.	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 8.BB-	Bie-	he-	.	8.A-	Far-	See-	.	8.d	Far-	See-	.	8.ff	Far-	See-	.
 !	!	!	!	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a
@@ -128,16 +128,16 @@
 8BB-	schon	dich,	.	8A-	-ring	auch,	.	8d	-ring	auch,	.	8b-	-ring	auch,	.
 8r	.	.	.	8B-	tagt	und	]	8d	tagt	und	]	8f	tagt	und	]
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4r	.	.	.	16A-LL	Bie-	trin-	.	8B-	Bie-	trin-	.	8.d	Bie-	trin-	.
-.	.	.	.	16B-JJ	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	16A-LL	.	.	.	8d	.	.	.	.	.	.	.
+4r	.	.	.	16A-L	Bie-	trin-	.	8B-	Bie-	trin-	.	8.d	Bie-	trin-	.
+.	.	.	.	16B-J	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16A-L	.	.	.	8d	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a
-.	.	.	.	16B-JJ	-ne	-ke	.	.	.	.	.	16f	-ne	-ke	<
+.	.	.	.	16B-J	-ne	-ke	.	.	.	.	.	16f	-ne	-ke	<
 !	!	!	!	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a	!	!	!	!
-8r	.	.	.	16A-LL	schon	fri-	<	8d	-schon	-fri-	<	8b-	schon	fri-	.
-.	.	.	.	16B-JJ	.	.	.	.	.	.	.	.	.	.	.
-8BB-	und	o	.	16A-LL	und	-schen	.	8f	und	-schen	[	8dd	und	-schen	[
-.	.	.	.	16B-JJ	.	.	[	.	.	.	.	.	.	.	.
+8r	.	.	.	16A-L	schon	fri-	<	8d	-schon	-fri-	<	8b-	schon	fri-	.
+.	.	.	.	16B-J	.	.	.	.	.	.	.	.	.	.	.
+8BB-	und	o	.	16A-L	und	-schen	.	8f	und	-schen	[	8dd	und	-schen	[
+.	.	.	.	16B-J	.	.	[	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 !	!	!	!LO:DY:a	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a	!	!	!	!LO:DY:a
 8.BB-	Schmet-	See-	>	8.A-	Schmet-	Mor-	>	8.d	Schmet-	Mor-	>	8.ff	Schmet-	Mor-	>
