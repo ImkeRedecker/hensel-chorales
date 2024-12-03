@@ -1,4 +1,6 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Eichendorff von, Joseph
 !!!OTL: Lockung
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
@@ -43,6 +45,7 @@
 4F#	lau-	.	4d#	lau-	.	4f#	lau-	.	4b	lau-	.
 4F#	-schen	.	4c#	-schen	.	4f#	-schen	.	4a#	-schen	.
 !	!	!	!	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a
+*g#:	*	*	*g#:	*	*	*g#:	*	*	*g#:	*	*
 4E	von	<	4c#	von	<	4f#	von	<	4a#	von	<
 4E	dem	[	4c#	dem	[	4f#	dem	[[	4a#	dem	[[
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
@@ -62,6 +65,7 @@
 .	.	.	.	.	.	.	.	.	8bL	zu	.
 .	.	.	.	.	.	.	.	.	8g#J	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*F#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
 1BB	nicht	.	(2G#	nicht	.	1c#	nicht	.	4f#	lau-	.
 .	.	.	.	.	.	.	.	.	4e#X	-schen	.
 .	.	.	2E#X)	.	.	.	.	.	8g#L	von	.
@@ -83,6 +87,7 @@
 .	.	.	4A#	.	.	4f#)	.	.	4f#)	.	.
 4r	.	.	4r	.	.	4ryy	.	.	4r	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 8B	Wo	pp	8B	Wo	pp	8dn	Wo	pp	8f#	Wo	pp
 8B	die	.	8B	die	.	8d	die	.	8f#	die	.
 .	.	.	.	.	.	.	.	.	8qan/	.	.
@@ -101,6 +106,7 @@
 .	.	.	.	.	.	.	.	.	8qan/	.	]
 8B	-bar	]	8B	-bar	]	8d	-bar	]	8gn	-bar	.
 8B	im	.	8B	im	.	8d	im	.	8f#	im	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4B-X	Mon-	.	4dn	Mon-	.	4gn	Mon-	.	4ddn	Mon-	.
 4B-	-den-	.	4d	-den-	.	4g#X	-den-	.	4dd	-den-	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
@@ -126,6 +132,7 @@
 4.An	Fluss	.	4.c#	Fluss	.	4.f#	Fluss	.	4.ff#	Fluss	.
 8A	vom	.	8c#	vom	.	8f#	vom	.	8cc#	vom	.
 4A	ho-	.	4c#	ho-	.	4f#	ho-	.	4cc#	ho-	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 4A	-hen	.	4cn	-hen	.	4f#	-hen	.	4dd#	-hen	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2.G#	Stein,	.	2B	Stein,	.	2e	Stein,	.	2.ee	Stein,	.
@@ -184,6 +191,7 @@
 4E	nachts	.	4c#	nachts	.	4f#	nachts	.	4a#	nachts	.
 4E	in	.	4c#	in	.	4f#	in	.	4a#	in	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+*g#:	*	*	*g#:	*	*	*g#:	*	*	*g#:	*	*
 4.D#	Wal-	.	4.A#	Wal-	.	4.f##X	Wal-	.	4.dd#	Wal-	.
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
 8D#	-des-	<	8A#	-des-	<	8f##	-des-	<	8cc#	-des-	<
@@ -200,6 +208,7 @@
 .	.	.	.	.	.	.	.	.	8bL	-le	.
 .	.	.	.	.	.	.	.	.	8g#J	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*F#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
 2.BB	wie-	.	2.G#	wie-	.	2.c#	wie-	.	4f#	wie-	.
 .	.	.	.	.	.	.	.	.	4e#X	-der	.
 .	.	.	.	.	.	.	.	.	8g#L	nachts	.
@@ -221,6 +230,7 @@
 .	.	.	4A#)	.	.	4f#)	.	.	4f#)	.	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 8B	wenn	pp	8B	wenn	pp	8dn	wenn	pp	8f#	wenn	pp
 8B	die	.	8B	die	.	8d	die	.	8f#	die	.
 !	!	!	!	!	!	!	!	!	!	!	!LO:DY:a
@@ -240,6 +250,7 @@
 .	.	.	.	.	.	.	.	.	(8qan/	.	.
 8B	Flie-	.	8B	Flie-	.	8d	Flie-	.	8gn)	Flie-	.
 8B	-der	.	8B	-der	.	8d	-der	.	8f#	-der	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4B-X	duf-	.	4dn	duf-	.	4gn	duf-	.	4dd#	duf-	.
 4B-	-tet	.	4d	-tet	.	4g#X	-tet	.	4dd#	-tet	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
@@ -255,6 +266,7 @@
 4Dn	Ni-	.	4An	Ni-	.	4f#	Ni-	.	4a	Ni-	.
 4D	-xen	.	4A	-xen	.	4f#	-xen	.	4a	-xen	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+*f#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
 2BB	rau-	.	2dn	rau-	.	2g#	rau-	.	2ff#	rau-	.
 4C#	-schen,	.	4c#	-schen,	.	4g#	-schen,	.	4ee#X	-schen,	.
 8.B	komm	.	8.c#	komm	.	8.e#X	komm	.	8.cc#	komm	.
@@ -264,6 +276,7 @@
 4.An	-ab,	.	4.c#	-ab,	.	4.f#	-ab,	.	4.ff#	-ab,	.
 8A	hier	.	8c#	hier	.	8f#	hier	.	8cc#	hier	.
 4A	ist’s	.	4c#	ist’s	.	4f#	ist’s	.	4cc#	ist’s	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4A	so	.	4cn	so	.	4f#	so	.	4dd#	so	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 2G#	kuühl,	.	2B	kuühl,	.	2e	kuühl,	.	2ee	kuühl,	.
@@ -281,6 +294,7 @@
 8.B	komm	.	8.d#	komm	.	8.f#	komm	.	4r	.	.
 16B	her-	.	16e	her-	.	16gn	her-	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 2.B	-ab,	.	2.e	-ab,	.	2.gn	-ab,	.	4r	.	.
 !	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!
 .	.	.	.	.	.	.	.	.	8.b	komm	.
@@ -307,4 +321,5 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
