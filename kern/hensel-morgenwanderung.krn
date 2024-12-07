@@ -1,5 +1,8 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Geibel, Emanuel
 !!!OTL: Morgenwanderung
+!!!OMD: Allegro moderato
 **kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
 *part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
 *staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
@@ -11,7 +14,7 @@
 *G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
 *M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Allegro moderato	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4D	Wer	.	f	4d	Wer	.	f	4d	Wer	.	f	4d	Wer	.	f
 =!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1	=!|:1
 4G	recht	gan-	.	4B	recht	gan-	.	4d	recht	gan-	.	4g	recht	gan-	.
@@ -33,6 +36,7 @@
 4D	-gen,	-ben	.	4F#	-gen,	-ben	.	4d	-gen,	-ben	.	4a	-gen,	-ben	.
 4C	da	in	.	4F#	da	in	.	4d	da	in	.	4a	da	in	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*e:	*	*	*	*e:	*	*	*	*e:	*	*	*	*e:	*	*	*
 4.BB	ist	bun-	.	4.F#	ist	bun-	.	4.d#X	ist	bun-	.	4.b	ist	bun-	.
 8BB	der	-ten	.	8F#	der	-ten	.	8d#	der	-ten	.	8b	der	-ten	.
 4BB	Wald	Zei-	.	4G	Wald	Zei-	.	4.e	Wald	Zei-	.	4.b	Wald	Zei-	.
@@ -46,6 +50,7 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4E	Lüft-	Gott	.	4B	Lüft-	Gott	.	4g	Lüft-	Gott	.	4ee	Lüft-	Gott	.
 4G	-chen	uns	.	4B	-chen	uns	.	4e	-chen	uns	.	4b	-chen	uns	.
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 4E	mag	true	.	4e	mag	true	.	4g	mag	true	.	4cc	mag	true	.
 4AA	sich	ge-	.	4e	sich	ge-	.	4g	sich	ge-	.	4cc#X	sich	ge-	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -59,6 +64,7 @@
 .	.	.	.	.	.	.	.	4d	nicht	-blu-	.	4f#	nicht	-blu-	.
 .	.	.	.	.	.	.	.	4d	die	-men	[	4f#	die	-men	[
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
 4D	Noch	Wal-	.	4F#	Noch	Wal-	.	4.a	Ler-	nah	.	4.cc	Ler-	nah	.
 !	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!
 4D	sind	-des-	<	4F#	sind	-des-	<	.	.	.	.	.	.	.	.
@@ -110,6 +116,7 @@
 4E	An-	.	.	4G	An-	.	.	4e	An-	.	.	4b	An-	.	.
 4E	-dacht	.	.	4B	-dacht	.	.	4g	-dacht	.	.	4ee	-dacht	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*e:	*	*	*	*e:	*	*	*	*e:	*	*	*	*e:	*	*	*
 4.BB	wie	.	.	4.A#X	wie	.	.	4.g	wie	.	.	4.ee	wie	.	.
 8BB	ein	.	.	8B	ein	.	.	8f#	ein	.	.	8dd#X	ein	.	.
 4BB	Hauch	.	.	4B	Hauch	.	.	4f#	Hauch	.	.	4dd#	Hauch	.	.
@@ -122,6 +129,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2D#X	lei-	.	.	2B	lei-	.	.	2a	lei-	.	.	2ff#	lei-	.	.
 4E	-se,	.	.	4B	-se,	.	.	4g	-se,	.	.	4ee	-se,	.	.
+*G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
 4r	.	.	.	4f#	da	.	.	4a	da	.	.	4dd	da	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 1r	.	.	.	4.e	pocht	.	.	4.g	pocht	.	.	4.cc	pocht	.	.
@@ -136,6 +144,7 @@
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4A	ih-	.	.	4A	ih-	.	.	4c	ih-	.	.	4f#	ih-	.	.
 4G	-rer	.	.	4G	-rer	.	.	4B	-rer	.	.	4e	-rer	.	.
+*e:	*	*	*	*e:	*	*	*	*e:	*	*	*	*e:	*	*	*
 4F#	stil-	.	.	4B	stil-	.	.	4d#X	stil-	.	.	4b	stil-	.	.
 4E	-len	.	.	4B	-len	.	.	4e	-len	.	.	4g	-len	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
@@ -145,6 +154,7 @@
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 4G	pocht	.	p	4B	pocht	.	p	4dn	pocht	.	p	4g	pocht	.	p
 4G	und	.	.	4B	und	.	.	4d	und	.	.	4g	und	.	.
+*a:	*	*	*	*a:	*	*	*	*a:	*	*	*	*a:	*	*	*
 4Fn	pocht,	.	.	4B	pocht,	.	.	4d	pocht,	.	.	4g#X	pocht,	.	.
 4E	bis	.	.	4B	bis	.	.	4d	bis	.	.	4g#	bis	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
@@ -156,12 +166,14 @@
 4A	und	.	.	4e	und	.	.	4a	und	.	.	4cc	und	.	.
 4A	die	.	.	4e	die	.	.	4a	die	.	.	4cc	die	.	.
 !LO:TX:b:i:t=cresc.	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!
+*d:	*	*	*	*d:	*	*	*	*d:	*	*	*	*d:	*	*	*
 4B-X	Li-	.	.	4e	Li-	.	.	4g	Li-	.	.	4cc#X	Li-	.	.
 4A	-pe	.	.	4e	-pe	.	.	4g	-pe	.	.	4cc#	-pe	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 4.D	ü-	.	.	4.c#X	ü-	.	.	4.g	ü-	.	.	4.ee	ü-	.	.
 8D	-ber-	.	.	8d	-ber-	.	.	8fn	-ber-	.	.	8dd	-ber-	.	.
 4D	-fließt,	.	.	4d	-fließt,	.	.	4f	-fließt,	.	.	4dd	-fließt,	.	.
+*G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
 4D	in	.	f	4cn	in	.	f	4f	in	.	f	4dd	in	.	f
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 2.G	lau-	.	.	2.B	lau-	.	.	2.fn	lau-	.	.	4.ffn	lau-	.	.
@@ -207,6 +219,7 @@
 4D	-gen,	.	.	4F#	-gen,	.	.	4d	-gen,	.	.	4a	-gen,	.	.
 4Cn	durch	.	.	4F#	durch	.	.	4d	durch	.	.	4a	durch	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+*e:	*	*	*	*e:	*	*	*	*e:	*	*	*	*e:	*	*	*
 4.BB	Berg	.	.	4.F#	Berg	.	.	4.d#X	Berg	.	.	4.b	Berg	.	.
 8BB	und	.	.	8F#	und	.	.	8d#	und	.	.	8b	und	.	.
 4BB	Tal	.	.	4G	Tal	.	.	4e	Tal	.	.	4b	Tal	.	.
@@ -219,6 +232,7 @@
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 4E	will	.	.	4B	will	.	.	4g	will	.	.	4ee	will	.	.
 4G	sich	.	.	4B	sich	.	.	4e	sich	.	.	4b	sich	.	.
+*G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
 4E	auf-	.	.	4e	auf-	.	.	4g	auf-	.	.	4cc	auf-	.	.
 4AA	-wärts	.	.	4e	-wärts	.	.	4g	-wärts	.	.	4cc#X	-wärts	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
@@ -299,5 +313,5 @@
 2r	.	.	.	2r	.	.	.	2r	.	.	.	2r	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!RDF**kern: i = editorial accidental
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
