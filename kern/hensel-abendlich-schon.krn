@@ -1,16 +1,19 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Eichendorff von, Joseph
 !!!OTL: Abendlich schon rauscht der Wald
+!!!OMD: Allegro  ma non troppo
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
 *staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
 *I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
 *clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
 *k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*
-*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
+*a:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!LO:TX:a:B:t=Allegro ma non troppo	!	!LO:DY:a
+!	!	!LO:DY:a:	!	!	!LO:DY:a	!	!	!LO:DY:a	!LO:TX:a:	!	!LO:DY:a
 4.c	A-	p	4.c	A-	p	4.cc	A-	p	4.cc	A-	p
 8B	-bend-	.	8B	-bend-	.	8b	-bend-	.	8b	-bend-	.
 4A	-lich	.	4A	-lich	.	4a	-lich	.	4a	-lich	.
@@ -36,6 +39,7 @@
 4A	wird	.	4A	wird	.	4a	wird	.	4a	wird	.
 4AA	der	.	4A	der	.	4c	der	.	4e	der	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4AA	Herr	.	4C	Herr	.	4c	Herr	.	4f	Herr	.
 4AA	nun	.	4E-X	nun	.	4c	nun	.	4f#X	nun	.
 2BB	bald	.	2D	bald	.	2d	bald	.	2g	bald	.
@@ -52,6 +56,7 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 !	!	!	!	!	!	!	!	!	!	!	!LO:DY:a
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 1r	.	.	1r	.	.	1r	.	.	4.cc	Wie	p
 .	.	.	.	.	.	.	.	.	8b	so	.
 .	.	.	.	.	.	.	.	.	4b	stil-	.
@@ -78,6 +83,7 @@
 .	.	.	4e	wie	.	.	.	.	4cc	wie	.
 .	.	.	4c	so	.	.	.	.	4a	so	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*a:	*	*	*a:	*	*	*a:	*	*	*a:	*	*
 2r	.	.	4A	stil-	.	2r	.	.	4f	stil-	.
 .	.	.	4F	-le	.	.	.	.	4d	-le	.
 4D	in	.	4F	in	.	4B	in	.	4a	in	.
@@ -196,4 +202,5 @@
 2AA	Ruh’!	.	2A	Ruh’!	.	2c	Ruh’!	.	2a	Ruh’!	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
