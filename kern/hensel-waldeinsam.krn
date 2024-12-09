@@ -1,5 +1,8 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Hensel, Wilhelm
 !!!OTL: Waldeinsam
+!!!OMD: Allegro
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
 *staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
@@ -10,7 +13,7 @@
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
-!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Allegro	!	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:	!	!
 4C	Wie	f	4c	Wie	f	4e	Wie	f	4g	Wie	f
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4.GG	hoff-	.	4.B	hoff-	.	4.f	hoff-	.	4.ee	hoff-	.
@@ -28,6 +31,7 @@
 4F	-grün	.	4B	-grün	.	4g	-grün	.	4dd	-grün	.
 4E	ist	.	4c#X	ist	.	4g	ist	.	4ee	ist	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*a:	*	*	*a:	*	*	*a:	*	*	*a:	*	*
 4.D	rings	.	4.c#X	rings	.	4.a	rings	.	4.gg	rings	.
 8D	die	.	8d	die	.	8a	die	.	8ff	die	.
 4D	Welt,	.	4d	Welt,	.	4a	Welt,	.	4ff	Welt,	.
@@ -50,6 +54,7 @@
 .	.	.	.	.	.	.	.	.	8ee	-den	.
 4F	-bis	.	4d	-bis	.	4a	-bis	.	(8eeL	bis	.
 .	.	.	.	.	.	.	.	.	8ddJ)	.	.
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4F#X	.	.	4d	.	.	4a	.	.	8r	.	.
 .	.	.	.	.	.	.	.	.	8cc	zum	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -77,6 +82,7 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 =:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13	=:|!13
 !	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!	!
+*a:	*	*	*a:	*	*	*a:	*	*	*a:	*	*
 2E	All-	.	2e	All-	.	2g#X	All-	.	2b	All-	.
 4.E	-mächtig-	.	4.e	-mächtig-	.	4.g#	-mächtig-	.	4.b	-mächtig-	.
 8E	-tig	.	8e	-tig	.	8g#	-tig	.	8b	-tig	.
@@ -135,6 +141,7 @@
 2.B-X	gold-	.	2.B-X	gold-	.	4f]	.	.	2.dd	gold-	.
 .	.	.	.	.	.	4f#X	-ner	.	.	.	.
 .	.	.	.	.	.	([2g	Mor-	.	.	.	.
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4Bn	-ner	.	4Bn	-ner	.	.	.	.	4dd#X	-ner	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 (4c	Mor-	.	(4c	Mor-	.	4g]	.	.	(4ee	Mor-	.
@@ -173,6 +180,7 @@
 4A	-ein-	.	4c	-ein-	.	4f	-ein-	.	4cc	-ein-	.
 4G	-sam-	.	4c	-sam-	.	4e	-sam-	.	4cc	-sam-	.
 4F	-keit	.	4B	-keit	.	4g	-keit	.	4dd	-keit	.
+*a:	*	*	*a:	*	*	*a:	*	*	*a:	*	*
 4E	so	.	4c#X	so	.	4g	so	.	4ee	so	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 4.D	rings	.	4.c#X	rings	.	4.a	rings	.	4.gg	rings	.
@@ -196,6 +204,7 @@
 .	.	.	.	.	.	.	.	.	8ee	-ne	.
 4F	Lied	.	4d	Lied	.	4a	Lied	.	(8eeL	Lied	.
 .	.	.	.	.	.	.	.	.	8ddJ)	.	.
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4F#X	.	.	4d	.	.	4a	.	.	8r	.	.
 .	.	.	.	.	.	.	.	.	8cc	von	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
@@ -243,4 +252,5 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
