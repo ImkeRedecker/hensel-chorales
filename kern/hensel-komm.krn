@@ -1,5 +1,8 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Hensel, Wilhelm
 !!!OTL: Komm
+!!!OMD: Allegretto
 **kern	**text	**text	**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
 *staff4	*staff4	*staff4	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
@@ -59,6 +62,7 @@
 8D	-ten	-le	.	.	.	.	.	.	.	.	.
 8E	in	den	8c#	die	den	8g	die	den	8ee	die	den
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 (4.F#	Pracht.	Traum.	(4.A#X	Mat-	Traum.	[4.f#	Mat-	Traum.	((4ee	Mat-	Traum.
 .	.	.	.	.	.	.	.	.	8ff#)	.	.
 4BB)	.	.	4B)	-ten.	.	4f#]	-ten.	.	4dd)	-ten.	.
@@ -73,6 +77,7 @@
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4.E	Wald,	won-	4.d	Gan-	Rau-	(4.g#X	Wald,	won-	4.b#X	Gan-	Rau-
 4E	.	-ni-	4c#	-ze,	-schen	4a)	.	-ni-	4cc#	-ze,	-schen
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 8E	der	-gem,	8c#	hoch	mein	8gn	der	-gem,	8ee	hoch	mein
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4.E	Wald	won-	8c#	rau-	Lied	4.gn	Wald	won-	8ee	rau-	Lied
@@ -86,6 +91,7 @@
 4D	-ze,	-schen,	4e	-ze,	-schen,	4f#	-ze,	-schen,	4b	-ze,	-schen,
 8C#	still	o	8G#X	still	o	8e#X	still	o	8cc#	still	o
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 8F#	lau-	komm,	4.A	lau-	komm,	4.f#	lau-	komm,	4.cc#	lau-	komm,
 8C#	-schet	wie	.	.	.	.	.	.	.	.	.
 8F#	ihm	die	.	.	.	.	.	.	.	.	.
@@ -137,6 +143,7 @@
 8A	-lig,	-en	8d	-lig,	-en	8f#	-lig,	-en	8dd	-lig,	-en
 8A	den	mit	8d	den	mit	8f#	den	mit	8ee	den	mit
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 4.A#X	Mor-	se-	4.d	Mor-	se-	4.f#	Mor-	se-	[4.ff#	Mor-	se-
 4B	.	.	4d	.	.	4f#	.	.	8ff#]	.	.
 .	.	.	.	.	.	.	.	.	8dd	-gen	-li-
@@ -147,6 +154,7 @@
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4.BB	-en,	-nen,	4.B	-en,	-nen,	4.d	-en,	-nen,	4.dd	-en,	-nen,
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 8A	wie	be-	8cn	wie	be-	8f#	wie	be-	8dd	wie	be-
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 [2.G	se-	-tau-	[2.B	se-	-tau-	[2.g	se-	-tau-	(4dd	se-	-tau-
@@ -202,4 +210,5 @@
 4.r	.	.	4.r	.	.	4.r	.	.	4.r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
