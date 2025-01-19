@@ -1,4 +1,6 @@
-!!!COM: Fanny Hensel-Mendelssohn
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Hensel, Wilhelm
 !!!OTL: Schweigend sinkt die Nacht
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -24,6 +26,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	4.G	still	4.B-	still	4.e-X	still	4.ee-X	still
 .	.	.	.	.	.	.	.	.	.	.	.	8F	ver-	8B-	ver-	8f	ver-	8dd	ver-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*g:	*	*	*g:	*	*	*g:	*	*	*g:	*	*	*g:	*	*g:	*	*g:	*	*g:	*
 1r	.	.	1r	.	.	1r	.	.	1r	.	.	4E-	-glimmt	4c	-glimmt	4g	-glimmt	4cc	-glimmt
 .	.	.	.	.	.	.	.	.	.	.	.	4E-	des	4c#X	des	4g	des	4b-	des
 .	.	.	.	.	.	.	.	.	.	.	.	4D	A-	4d	A-	4b-	A-	4dd	A-
@@ -32,6 +35,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1r	.	.	1r	.	.	1r	.	.	1r	.	.	4D	Pracht,	4d	Pracht,	4f#X	Pracht,	4a	Pracht,
 .	.	.	.	.	.	.	.	.	.	.	.	4r	.	4r	.	4r	.	4r	.
+*E-:	*	*	*E-:	*	*	*E-:	*	*	*E-:	*	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
 .	.	.	.	.	.	.	.	.	.	.	.	4.G	leis	4.d	leis	4.fn	leis	4.bn	leis
 .	.	.	.	.	.	.	.	.	.	.	.	8G	ver-	8d	ver-	8f	ver-	8b	ver-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
@@ -87,6 +91,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	2c)	.	2e-)	.	4ee-)	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4cc	sie
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*B-:	*	*	*B-:	*	*	*B-:	*	*	*B-:	*	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*
 1r	.	.	1r	.	.	1r	.	.	1r	.	.	4r	.	4r	.	4r	.	2.b-	ist
 .	.	.	.	.	.	.	.	.	.	.	.	4G	sie	4c#X	sie	4en	sie	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	4F	ist	4d	ist	4f	ist	.	.
@@ -217,5 +222,5 @@
 2BB-]	.	.	2B-)	.	.	2d)	.	.	2b-)	.	.	2F]	.	2d)	.	2b-)	.	2b-)	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8)]
-!!!RDF**kern: i = editorial accidental
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
