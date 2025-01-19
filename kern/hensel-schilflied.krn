@@ -1,4 +1,6 @@
-!!!COM: Fanny Hensel-Mendelssohn
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Lenau, Nikolaus
 !!!OTL: Schilflied
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -28,6 +30,7 @@
 8A	der	8c#	der	8e	der	8a	der
 =6	=6	=6	=6	=6	=6	=6	=6
 4G	mü-	4c#X	mü-	4e	mü-	4.b-	mü-
+*F:	*	*F:	*	*F:	*	*F:	*
 4F	-de	4d	-de	4f	-de	.	.
 .	.	.	.	.	.	8b-	-de
 =7	=7	=7	=7	=7	=7	=7	=7
@@ -39,6 +42,7 @@
 .	.	.	.	4f	.	4a	.
 =9	=9	=9	=9	=9	=9	=9	=9
 4r	.	4r	.	4r	.	4.ff	nie-
+*d:	*	*d:	*	*d:	*	*d:	*
 8A	nie-	8d	nie-	8f	nie-	.	.
 8A	-der-	8d	-der-	8f	-der-	8ee	-der-
 =10	=10	=10	=10	=10	=10	=10	=10
@@ -75,6 +79,7 @@
 8.A	in	8.d	in	8.f	in	8.dd	in
 16A	den	16d	den	16f	den	16dd	den
 =18	=18	=18	=18	=18	=18	=18	=18
+*F:	*	*F:	*	*F:	*	*F:	*
 4.G	Teich	4.d	Teich	4.f	Teich	4.ff	Teich
 8G	so	8B-	so	8f	so	8dd	so
 =19	=19	=19	=19	=19	=19	=19	=19
@@ -85,6 +90,7 @@
 .	.	4F	.	4f	.	4a	.
 =21	=21	=21	=21	=21	=21	=21	=21
 4r	.	4r	.	4r	.	4.cc	und
+*B-:	*	*B-:	*	*B-:	*	*B-:	*
 8A	und	8c	und	8e-X	und	.	.
 8A	ich	8c	ich	8e-	ich	8f	ich
 =22	=22	=22	=22	=22	=22	=22	=22
@@ -119,6 +125,7 @@
 .	.	.	.	16a-	-rig	.	.
 =30	=30	=30	=30	=30	=30	=30	=30
 4r	.	4f	hier,	4a-X	säu-	4r	.
+*c:	*	*c:	*	*c:	*	*c:	*
 8.G	trau-	8.f	trau-	4a-	-seln,	8.bn	trau-
 16G	-rig	16f	-rig	.	.	16b	-rig
 =31	=31	=31	=31	=31	=31	=31	=31
@@ -137,6 +144,7 @@
 .	.	.	.	16g	-rig	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
 4r	.	4e-X	hier,	4g	säu-	4r	.
+*d:	*	*d:	*	*d:	*	*d:	*
 8.A	trau-	8.g	trau-	4b-	-seln,	8.cc#X	trau-
 16A	-rig	16g	-rig	.	.	16cc#	-rig
 =35	=35	=35	=35	=35	=35	=35	=35
@@ -195,6 +203,7 @@
 8A	du,	8c#	du,	8e	du,	8a	du,
 =51	=51	=51	=51	=51	=51	=51	=51
 4G	Fer-	4c#X	Fer-	4e	Fer-	4.b-	Fer-
+*F:	*	*F:	*	*F:	*	*F:	*
 4F	-ne,	4d	-ne,	4f	-ne,	.	.
 .	.	.	.	.	.	8b-	-ne,
 =52	=52	=52	=52	=52	=52	=52	=52
@@ -206,6 +215,7 @@
 .	.	.	.	4f	.	4a	.
 =54	=54	=54	=54	=54	=54	=54	=54
 4r	.	4r	.	4r	.	4.ff	wie
+*d:	*	*d:	*	*d:	*	*d:	*
 8A	wie	8d	wie	8f	wie	.	.
 8A	durch	8d	durch	8f	durch	8ee	durch
 =55	=55	=55	=55	=55	=55	=55	=55
@@ -262,5 +272,5 @@
 2D]	.	2A]	.	2d)	.	2f#X)	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!RDF**kern: i = editorial accidental
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
