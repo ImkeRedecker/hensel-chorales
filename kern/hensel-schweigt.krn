@@ -1,4 +1,6 @@
-!!!COM: Fanny Hensel-Mendelssohn
+!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Eichendorff von, Joseph
 !!!OTL: Schweigt der Menschen laute Lust
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
@@ -186,5 +188,5 @@
 2E-]	.	.	2B-	.	.	2e-)	.	.	2g)	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!RDF**kern: i = editorial accidental
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
