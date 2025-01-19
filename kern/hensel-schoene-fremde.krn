@@ -1,4 +1,6 @@
-!!!COM: Fanny Hensel
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Eichendorff von, Joseph
 !!!OTL: Schöne Fremde
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
@@ -125,6 +127,7 @@
 4.AA	Göt-	.	4.e	Göt-	.	4.a	Göt-	.	(4dd	Göt-	.
 .	.	.	.	.	.	.	.	.	8cc)	.	.
 4BB	-ter,	.	4d	-ter,	.	4g#X	-ter,	.	4b	-ter,	.
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 8C	die	.	8c	die	.	8a	die	.	8a	die	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 4.D	Göt-	.	4.B	Göt-	.	4.g	Göt-	.	4.dd	Göt-	.
@@ -134,6 +137,7 @@
 4.GG	Rund.	.	(4.c	Rund.	.	(4.f#	Rund.	.	(4.a	Rund.	.
 4GG	.	.	4B)	.	.	4g)	.	.	4g)	.	.
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 8E	Hier	p	8B	Hier	p	8g	Hier	p	8b	Hier	p
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4.E	un-	.	4.B	un-	.	8e	un-	.	8g	un-	.
@@ -208,12 +212,14 @@
 .	.	.	8G#X)	.	.	.	.	.	8b	-lich	.
 4C	-mern-	.	4A	-mern-	.	4e	-mern-	.	8ee	däm-	.
 .	.	.	.	.	.	.	.	.	8cc	-mern-	.
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 8C	-der	.	8c	-der	.	8e	-der	.	8a	-der	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 4.D	Pracht,	.	(4.B	Pracht,	.	[4.d	Pracht,	.	(4.g	Pracht,	.
 4.r	.	.	4A)	.	.	4d]	.	.	4f#)	.	.
 .	.	.	8d	was	.	8f#	was	.	8a	was	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 4.r	.	.	4.d#X	sprichst	.	4.f#	sprichst	.	4cc	sprichst	.
 .	.	.	.	.	.	.	.	.	8b	du	.
 4r	.	.	4.d#	du	.	4.f#	du	.	8cc	wirr	.
@@ -355,6 +361,7 @@
 .	.	.	8c#	-ti-	.	2e	-ti-	.	8a#X	-ti-	.
 .	.	.	8B	.	.	.	.	.	8g#	-gem	.
 4F#	.	.	4A#X	.	.	.	.	.	4f#	gro-	.
+*c#:	*	*	*c#:	*	*	*c#:	*	*	*c#:	*	*
 4F##X	-gem	.	4A#	-gem	.	4e	-gem	.	4cc#	-ßen	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 2.G#	Glück,	.	(2A#X	Glück,	.	(2e	Glück,	.	(2cc#	Glück,	.
@@ -371,6 +378,7 @@
 (4C#	re-	.	(4e	re-	.	2g#	re-	.	4ee	.	.
 4D#)	.	.	4B#X)	.	.	.	.	.	4dd#)	.	.
 4E	-det	.	4c#	-det	.	4g#	-det	.	4cc#	-ti-	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 4E#X	von	.	4dn	von	.	4g#	von	.	4g#	-gem	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
 2F#	gro-	.	2dn	gro-	.	(2f#	gro-	.	(2b	gro-	.
@@ -380,6 +388,7 @@
 2.BB	Glück,	.	(2A#X	Glück,	.	(2e	Glück,	.	(2cc#	Glück,	.
 .	.	.	4B)	.	.	4d#)	.	.	4b)	.	.
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4BB	es	p	4An	es	p	4d#	es	p	4b	es	p
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 4E	fun-	.	4G#	fun-	.	4e	fun-	.	4b	fun-	.
@@ -532,4 +541,5 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
