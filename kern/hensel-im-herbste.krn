@@ -2,6 +2,8 @@
 !!!CDT: 1805/11/14-1847/05/14
 !!!LYR: Uhland, Ludwig
 !!!OTL: Im Herbste
+!!!OPS: 3
+!!!ONM: 3
 !!!OMD: Allegro ma non troppo
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
@@ -12,7 +14,6 @@
 *A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 *M9/8	*	*	*M9/8	*	*	*M9/8	*	*	*M9/8	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
-!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Allegro ma non troppo	!	!
 4A	Seid	mf	8eL	Seid	mf	4a	Seid	mf	8cc#L	Seid	mf
 .	.	.	8c#J	.	.	.	.	.	8ddJ	.	.
 8A	ge-	.	8d	ge-	.	8a	ge-	.	8ff#	ge-	.
