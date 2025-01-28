@@ -1,4 +1,6 @@
-# fanny hensel a-capella chöre
+# Fanny Hensel Chorlieder
+
+https://imkeredecker.github.io/hensel-chorlieder-projekt/
 
 | Op. | Title                             | VHV                                                                                                                                                                    |
 |-----|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6,7 +8,7 @@
 | 3/6 | Im Wald                           | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-im-wald.krn)                    |
 |     | Ariel                             | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-ariel.krn)                      |
 |     | Hörst Du nicht die Bäume rauschen | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-hoerst-du.krn)                  |
-|     | Im Herbste                        | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-im-herbste.krn)                 |
+| 3/3 | Im Herbste                        | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-im-herbste.krn)                 |
 |     | Komm                              | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-komm.krn)                       |
 | 3/1 | Lockung                           | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-lockung.krn)                    |
 |     | Lust'ge Vögel                     | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/ImkeRedecker/hensel-chorlieder/refs/heads/master/kern/hensel-lustge-voegel.krn)              |
