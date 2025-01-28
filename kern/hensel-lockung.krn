@@ -2,324 +2,326 @@
 !!!CDT: 1805/11/14-1847/05/14
 !!!LYR: Eichendorff von, Joseph
 !!!OTL: Lockung
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text
-*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*
-*staff4	*	*staff3	*	*staff2	*	*staff1	*	*
-*I"Bass	*	*I"Tenor	*	*I"Alt	*	*I"Sopran	*	*
-*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*
-*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*	*
-*B:	*	*B:	*	*B:	*	*B:	*	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
-*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*
-=	=	=	=	=	=	=	=	=
-4.B	p	4.d#	p	4.f#	p	4.dd#	p	0
-8B	.	8d#	.	8f#	.	8ee	.	1.5
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-4A#	.	4c#	.	4f#	.	4ff#	.	2
-4A#	.	4d#	.	4f#	.	4dd#	.	3
-4.G#	.	4.d#	.	4.f#	.	4.b	.	4
-8G#	.	8c#	.	8e#X	.	8cc#	.	5.5
-=2	=2	=2	=2	=2	=2	=2	=2	=2
-4F#	.	4d#	.	4f#	.	4b	.	6
-4F#	.	4c#	.	4f#	.	4a#	.	7
-4E	.	4c#	.	4f#	.	4a#	.	8
-4E	.	(8BL	.	4f#	.	8g#L	.	9
-.	.	8A#J)	.	.	.	8f#J	.	9.5
-=3	=3	=3	=3	=3	=3	=3	=3	=3
-4D#	.	4B	.	4f#	.	4f#	.	10
-4D#	.	4B	.	4f#	.	4b	.	11
-4C#	.	4A#	.	4f#	.	4cc#	.	12
-4BB	.	4B	.	4f#	.	4dd#	.	13
-=4	=4	=4	=4	=4	=4	=4	=4	=4
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-2AA#	<	2c#	<	2f#	<	2ee	<	14
-4.B	.	4.d#	.	4.f#	.	4.dd#	.	16
-8B	[	8d#	[	8f#	[	8ee	[	17.5
-=5	=5	=5	=5	=5	=5	=5	=5	=5
-4A#	.	4c#	.	4f#	.	4ff#	.	18
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-4A#	p	4d#	p	4f#	p	4dd#	p	19
-4.G#	.	4.d#	.	4.f#	.	4.b	.	20
-8G#	.	8c#	.	8e#X	.	8cc#	.	21.5
-=6	=6	=6	=6	=6	=6	=6	=6	=6
-4F#	.	4d#	.	4f#	.	4b	.	22
-4F#	.	4c#	.	4f#	.	4a#	.	23
-!	!	!	!LO:DY:a	!	!	!	!LO:DY:a	!
-*g#:	*	*g#:	*	*g#:	*	*g#:	*	*
-4E	<	4c#	<	4f#	<	4a#	<	24
-4E	[	4c#	[	4f#	[[	4a#	[[	25
-=7	=7	=7	=7	=7	=7	=7	=7	=7
-4.D#	.	4.A#	.	4.f##X	.	4.dd#	.	26
-8D#	.	8A#	.	8f##	.	8cc#	.	27.5
-4D#	.	4d#	.	4f##	.	4b	.	28
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-4D#	>	4c#	>	4f##	>	4a#	>	29
-=8	=8	=8	=8	=8	=8	=8	=8	=8
-2G#	]	2B	]	2g#	]	2b	]	30
-2r	.	2r	.	2r	.	4.dd#	.	32
-.	.	.	.	.	.	8dd#	.	33.5
-=9	=9	=9	=9	=9	=9	=9	=9	=9
-1r	.	1r	.	1r	.	4cc#	.	34
-.	.	.	.	.	.	4b	.	35
-.	.	.	.	.	.	4a#	.	36
-.	.	.	.	.	.	8bL	.	37
-.	.	.	.	.	.	8g#J	.	37.5
-=10	=10	=10	=10	=10	=10	=10	=10	=10
-*F#:	*	*F#:	*	*F#:	*	*F#:	*	*
-1BB	.	(2G#	.	1c#	.	4f#	.	38
-.	.	.	.	.	.	4e#X	.	39
-.	.	2E#X)	.	.	.	8g#L	.	40
-.	.	.	.	.	.	8e#J	.	40.5
-.	.	.	.	.	.	8d#L	.	41
-.	.	.	.	.	.	8c#J	.	41.5
-=11	=11	=11	=11	=11	=11	=11	=11	=11
-4AA#	.	4F#	.	4c#	.	(2f#	.	42
-4AA#	.	4c#	.	4e	.	.	.	43
-4BB	.	4B	.	4d#	.	[2ff#)	.	44
-4BB	.	4B	.	4dn	.	.	.	45
-=12	=12	=12	=12	=12	=12	=12	=12	=12
-2C#	.	2A#	.	2c#	.	4ff#]	.	46
-.	.	.	.	.	.	4f#	.	47
-2C#	.	4.B	.	2e#X	.	4.g#	.	48
-.	.	8c#	.	.	.	8a#	.	49.5
-=13	=13	=13	=13	=13	=13	=13	=13	=13
-2.FF# 2.F#	.	2B	.	(2e#X	.	(2g#	.	50
-.	.	4A#	.	4f#)	.	4f#)	.	52
-4r	.	4r	.	4ryy	.	4r	.	53
-=14	=14	=14	=14	=14	=14	=14	=14	=14
-*B:	*	*B:	*	*B:	*	*B:	*	*
-8B	pp	8B	pp	8dn	pp	8f#	pp	54
-8B	.	8B	.	8d	.	8f#	.	54.5
-.	.	.	.	.	.	8qan/	.	55
-8B	.	8B	.	8d	.	8gn	.	55
-8B	.	8B	.	8d	.	8f#	.	55.5
-4An	.	4An	.	4c#	.	4f#	.	56
-4A	.	4A	.	4c#	.	4f#	.	57
-=15	=15	=15	=15	=15	=15	=15	=15	=15
-2Gn	.	2B	.	2e#X	.	2b	.	58
-4F#	.	4c#	.	4f#	.	4a#	.	60
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-4r	>	4r	>	4r	>	4r	>	61
-=16	=16	=16	=16	=16	=16	=16	=16	=16
-8B	.	8B	.	8dn	.	8f#	.	62
-8B	.	8B	.	8d	.	8f#	.	62.5
-.	.	.	.	.	.	8qan/	]	63
-8B	]	8B	]	8d	]	8gn	.	63
-8B	.	8B	.	8d	.	8f#	.	63.5
-*D:	*	*D:	*	*D:	*	*D:	*	*
-4B-X	.	4dn	.	4gn	.	4ddn	.	64
-4B-	.	4d	.	4g#X	.	4dd	.	65
-=17	=17	=17	=17	=17	=17	=17	=17	=17
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-2.An	<	(2f#	<	2.an	<	(2ddn	<	66
-.	.	4e)	.	.	.	4cc#)	.	68
-4r	.	4r	[	4r	[	4r	[	69
-=18	=18	=18	=18	=18	=18	=18	=18	=18
-8C#	[	8e	.	8gn	.	8an	.	70
-8C#	.	8e	.	8g	.	8a	.	70.5
-.	.	.	.	.	.	8qcc#/	.	71
-8C#	.	8e	.	8g	.	8b	.	71
-8C#	.	8e	.	8g	.	8a	.	71.5
-4Dn	.	4An	.	4f#	.	4a	.	72
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-4D	<	4A	<	4f#	<	4a	<	73
-=19	=19	=19	=19	=19	=19	=19	=19	=19
-2BB	[	2dn	[	2g#X	[	2ff#	[	74
-4C#	.	4c#	.	4g#	.	4ee#X	.	76
-8.B	mf	8.c#	mf	8.e#X	mf	8.cc#	mf	77
-16B	.	16c#	.	16e#	.	16cc#	.	77.75
-=20	=20	=20	=20	=20	=20	=20	=20	=20
-4.An	.	4.c#	.	4.f#	.	4.ff#	.	78
-8A	.	8c#	.	8f#	.	8cc#	.	79.5
-4A	.	4c#	.	4f#	.	4cc#	.	80
-*B:	*	*B:	*	*B:	*	*B:	*	*
-4A	.	4cn	.	4f#	.	4dd#	.	81
-=21	=21	=21	=21	=21	=21	=21	=21	=21
-2.G#	.	2B	.	2e	.	2.ee	.	82
-.	.	4r	.	4r	.	.	.	84
-8.G#	p	8.B	p	8.e	p	8.b	p	85
-16G#	.	16B	.	32e	.	16cc#	.	85.75
-.	.	.	.	32ryy	.	.	.	85.875
-=22	=22	=22	=22	=22	=22	=22	=22	=22
-4.F#	.	4.B	.	4.d#	.	4.dd#	.	86
-8F#	.	8B	.	8d#	.	8cc#	.	87.5
-4F#	.	4c#	.	4e	.	4b	.	88
-4F#	.	4c#	.	4e	.	4a#	.	89
-=23	=23	=23	=23	=23	=23	=23	=23	=23
-[1B	.	4B	.	4d#	.	[1b	.	90
-.	.	4d#	.	4f#	.	.	.	91
-.	.	4.e	.	4.gn	.	.	.	92
-.	.	8d#	.	8f#	.	.	.	93.5
-=24	=24	=24	=24	=24	=24	=24	=24	=24
-1B_	.	(1c#	.	(1e	.	4b]	.	94
-.	.	.	.	.	.	4a#	.	95
-.	.	.	.	.	.	4.ee	.	96
-.	.	.	.	.	.	8a#	.	97.5
-=25	=25	=25	=25	=25	=25	=25	=25	=25
-2B;]	.	2d#;)	.	2f#;)	.	2b;	.	98
-4.B	.	4.d#	.	4.f#	.	4.dd#	.	100
-8B	.	8d#	.	8f#	.	8ee	.	101.5
-=26	=26	=26	=26	=26	=26	=26	=26	=26
-4A#	.	4c#	.	4f#	.	4ff#	.	102
-4A#	.	4d#	.	4f#	.	4dd#	.	103
-4.G#	.	4.d#	.	4.f#	.	4.b	.	104
-8G#	.	8c#	.	8e#X	.	8cc#	.	105.5
-=27	=27	=27	=27	=27	=27	=27	=27	=27
-4F#	.	4d#	.	4f#	.	4b	.	106
-4F#	.	4c#	.	4f#	.	4a#	.	107
-4E	.	4c#	.	4f#	.	4a#	.	108
-4E	.	8BL	.	4f#	.	8g#L	.	109
-.	.	8A#J	.	.	.	8f#J	.	109.5
-=28	=28	=28	=28	=28	=28	=28	=28	=28
-!	!LO:DY:a	!	!	!	!LO:DY:a	!	!LO:DY:a	!
-4D#	<	4B	<	4f#	<	4f#	<	110
-4D#	.	4B	.	4f#	.	4b	.	111
-4C#	.	4A#	.	4f#	.	4cc#	.	112
-4BB	[	4B	[	4f#	[	4dd#	[	113
-=29	=29	=29	=29	=29	=29	=29	=29	=29
-2AA#	.	2c#	.	2f#	.	2ee	.	114
-4.B	.	4.d#	.	4.f#	.	4.dd#	.	116
-8B	.	8d#	.	8f#	.	8ee	.	117.5
-=30	=30	=30	=30	=30	=30	=30	=30	=30
-4A#	.	4c#	.	4f#	.	4ff#	.	118
-4A#	.	4d#	.	4f#	.	4dd#	.	119
-4.G#	.	4.d#	.	4.f#	.	4.b	.	120
-8G#	.	8c#	.	8e#X	.	8cc#	.	121.5
-=31	=31	=31	=31	=31	=31	=31	=31	=31
-4F#	.	4d#	.	4f#	.	4b	.	122
-4F#	.	4c#	.	4f#	.	4a#	.	123
-4E	.	4c#	.	4f#	.	4a#	.	124
-4E	.	4c#	.	4f#	.	4a#	.	125
-=32	=32	=32	=32	=32	=32	=32	=32	=32
-*g#:	*	*g#:	*	*g#:	*	*g#:	*	*
-4.D#	.	4.A#	.	4.f##X	.	4.dd#	.	126
-!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!	!LO:DY:a	!
-8D#	<	8A#	<	8f##	<	8cc#	<	127.5
-4D#	.	4d#	.	4f##	.	4b	.	128
-4D#	[	4c#	[	4f##	[	4a#	[	129
-=33	=33	=33	=33	=33	=33	=33	=33	=33
-2G#	.	2B	.	2g#	.	2b	.	130
-2r	.	2r	.	2r	.	4.dd#	.	132
-.	.	.	.	.	.	8dd#	.	133.5
-=34	=34	=34	=34	=34	=34	=34	=34	=34
-1r	.	1r	.	1r	.	4cc#	.	134
-.	.	.	.	.	.	4b	.	135
-.	.	.	.	.	.	4a#	.	136
-.	.	.	.	.	.	8bL	.	137
-.	.	.	.	.	.	8g#J	.	137.5
-=35	=35	=35	=35	=35	=35	=35	=35	=35
-*F#:	*	*F#:	*	*F#:	*	*F#:	*	*
-2.BB	.	2.G#	.	2.c#	.	4f#	.	138
-.	.	.	.	.	.	4e#X	.	139
-.	.	.	.	.	.	8g#L	.	140
-.	.	.	.	.	.	8e#J	.	140.5
-4BB	.	4E#X	.	4c#	.	8d#L	.	141
-.	.	.	.	.	.	8c#J	.	141.5
-=36	=36	=36	=36	=36	=36	=36	=36	=36
-4AA#	.	4F#	.	4c#	.	(2f#	.	142
-4AA#	.	4c#	.	4e	.	.	.	143
-4BB	.	4B	.	4d#	.	[2ff#)	.	144
-4BB	.	4B	.	4dn	.	.	.	145
-=37	=37	=37	=37	=37	=37	=37	=37	=37
-2C#	.	(2A#	.	2c#	.	4ff#]	.	146
-.	.	.	.	.	.	4f#	.	147
-2C#	.	4.B)	.	2e#X	.	4.g#	.	148
-.	.	8c#	.	.	.	8a#	.	149.5
-=38	=38	=38	=38	=38	=38	=38	=38	=38
-2.FF# 2.F#	.	(2B	.	(2e#X	.	(2g#	.	150
-.	.	4A#)	.	4f#)	.	4f#)	.	152
-4r	.	4r	.	4r	.	4r	.	153
-=39	=39	=39	=39	=39	=39	=39	=39	=39
-*B:	*	*B:	*	*B:	*	*B:	*	*
-8B	pp	8B	pp	8dn	pp	8f#	pp	154
-8B	.	8B	.	8d	.	8f#	.	154.5
-!	!	!	!	!	!	!	!LO:DY:a	!
-.	.	.	.	.	.	(8qan/	<	155
-!	!LO:DY:a	!	!	!	!LO:DY:a	!	!	!
-8B	<	8B	<	8d	<	8gn)	.	155
-8B	.	8B	.	8d	.	8f#	.	155.5
-4An	.	4An	.	4c#	.	4f#	.	156
-4A	.	4A	.	4c#	.	4f#	.	157
-=40	=40	=40	=40	=40	=40	=40	=40	=40
-2Gn	[	2B	[	2e#X	[	2b	[	158
-4F#	.	4c#	.	4f#	.	4a#	.	160
-4r	.	4r	.	4r	.	4r	.	161
-=41	=41	=41	=41	=41	=41	=41	=41	=41
-8B	.	8B	.	8dn	.	8f#	.	162
-8B	.	8B	.	8d	.	8f#	.	162.5
-.	.	.	.	.	.	(8qan/	.	163
-8B	.	8B	.	8d	.	8gn)	.	163
-8B	.	8B	.	8d	.	8f#	.	163.5
-*D:	*	*D:	*	*D:	*	*D:	*	*
-4B-X	.	4dn	.	4gn	.	4dd#	.	164
-4B-	.	4d	.	4g#X	.	4dd#	.	165
-=42	=42	=42	=42	=42	=42	=42	=42	=42
-2.An	.	(2f#	.	2.an	.	(2ddn	.	166
-.	.	4e)	.	.	.	4cc#)	.	168
-4r	.	4r	.	4r	.	4r	.	169
-=43	=43	=43	=43	=43	=43	=43	=43	=43
-8C#	.	8e	.	8gn	.	8an	.	170
-8C#	.	8e	.	8g	.	8a	.	170.5
-.	.	.	.	.	.	8qcc#/	.	171
-8C#	.	8e	.	8g	.	8b	.	171
-8C#	.	8e	.	8g	.	8a	.	171.5
-4Dn	.	4An	.	4f#	.	4a	.	172
-4D	.	4A	.	4f#	.	4a	.	173
-=44	=44	=44	=44	=44	=44	=44	=44	=44
-*f#:	*	*F#:	*	*F#:	*	*F#:	*	*
-2BB	.	2dn	.	2g#	.	2ff#	.	174
-4C#	.	4c#	.	4g#	.	4ee#X	.	176
-8.B	.	8.c#	.	8.e#X	.	8.cc#	.	177
-!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!
-16B	.	16c#	.	16e#	.	16cc#	.	177.75
-=45	=45	=45	=45	=45	=45	=45	=45	=45
-4.An	.	4.c#	.	4.f#	.	4.ff#	.	178
-8A	.	8c#	.	8f#	.	8cc#	.	179.5
-4A	.	4c#	.	4f#	.	4cc#	.	180
-*E:	*	*E:	*	*E:	*	*E:	*	*
-4A	.	4cn	.	4f#	.	4dd#	.	181
-=46	=46	=46	=46	=46	=46	=46	=46	=46
-2G#	.	2B	.	2e	.	2ee	.	182
-4r	p	4r	p	4r	p	4r	p	184
-8.Gn	.	8.B	.	8.e	.	8.b	.	185
-16G	.	16B	.	16e	.	16cc#	.	185.75
-=47	=47	=47	=47	=47	=47	=47	=47	=47
-4.F#	.	4.B	.	4.d#	.	4.dd#	.	186
-8F#	.	8B	.	8d#	.	8cc#	.	187.5
-4F#	.	4c#	.	4e	.	4b	.	188
-4F#	.	4c#	.	4e	.	4a#	.	189
-=48	=48	=48	=48	=48	=48	=48	=48	=48
-2.BB	.	(2A#	.	(2e	.	(2cc#	.	190
-.	.	4B)	.	4d#)	.	4b)	.	192
-8.B	.	8.d#	.	8.f#	.	4r	.	193
-16B	.	16e	.	16gn	.	.	.	193.75
-=49	=49	=49	=49	=49	=49	=49	=49	=49
-*B:	*	*B:	*	*B:	*	*B:	*	*
-2.B	.	2.e	.	2.gn	.	4r	.	194
-!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!
-.	.	.	.	.	.	8.b	.	195
-.	.	.	.	.	.	16ccn	.	195.75
-.	.	.	.	.	.	4cc	.	196
-8.B	.	8.e	.	8.g	.	4r	.	197
-16B	.	16fn	.	16g#X	.	.	.	197.75
-=50	=50	=50	=50	=50	=50	=50	=50	=50
-2.B	.	2.fn	.	2.g#	.	4r	.	198
-.	.	.	.	.	.	8.cc#	.	199
-.	.	.	.	.	.	16ddn	.	199.75
-.	.	.	.	.	.	4dd	.	200
-8.B	f	8.f#X	f	8.an	f	8.dd#X	f	201
-16E	.	16e	.	16g#	.	16ee	.	201.75
-=51	=51	=51	=51	=51	=51	=51	=51	=51
-4.E	.	4.e	.	4.g#	.	4.ee	.	202
-8E	p	8e	p	8gn	p	8cc#	p	203.5
-4F#	.	4d#	.	4f#	.	4b	.	204
-4F#	.	4c#	.	4e	.	8a#L	.	205
-.	.	.	.	.	.	8ff#J	.	205.5
-=52	=52	=52	=52	=52	=52	=52	=52	=52
-2.BB	.	(2A#	.	(2e	.	(2ff#	.	206
-.	.	4B)	.	4d#)	.	4b)	.	208
-4r	.	4r	.	4r	.	4r	.	209
-==	==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!OPS: 3
+!!!ONM: 1
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*k[f#c#g#d#a#]	*	*	*k[f#c#g#d#a#]	*	*	*k[f#c#g#d#a#]	*	*	*k[f#c#g#d#a#]	*	*
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+*met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
+=	=	=	=	=	=	=	=	=	=	=	=
+4.B	Hörst	p	4.d#	Hörst	p	4.f#	Hörst	p	4.dd#	Hörst	p
+8B	Du	.	8d#	Du	.	8f#	Du	.	8ee	Du	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4A#	nicht	.	4c#	nicht	.	4f#	nicht	.	4ff#	nicht	.
+4A#	die	.	4d#	die	.	4f#	die	.	4dd#	die	.
+4.G#	Bäu-	.	4.d#	Bäu-	.	4.f#	Bäu-	.	4.b	Bäu-	.
+8G#	-me	.	8c#	-me	.	8e#X	-me	.	8cc#	-me	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4F#	rau-	.	4d#	rau-	.	4f#	rau-	.	4b	rau-	.
+4F#	-schen,	.	4c#	-schen,	.	4f#	-schen,	.	4a#	-schen,	.
+4E	drau-	.	4c#	drau-	.	4f#	drau-	.	4a#	drau-	.
+4E	-sen	.	(8BL	-sen	.	4f#	-sen	.	8g#L	-sen	.
+.	.	.	8A#J)	.	.	.	.	.	8f#J	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4D#	durch	.	4B	durch	.	4f#	durch	.	4f#	durch	.
+4D#	die	.	4B	die	.	4f#	die	.	4b	die	.
+4C#	stil-	.	4A#	stil-	.	4f#	stil-	.	4cc#	stil-	.
+4BB	-le	.	4B	-le	.	4f#	-le	.	4dd#	-le	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+2AA#	Rund?	<	2c#	Rund?	<	2f#	Rund?	<	2ee	Rund?	<
+4.B	Lockt	.	4.d#	Lockt	.	4.f#	Lockt	.	4.dd#	Lockt	.
+8B	dich’s	[	8d#	dich’s	[	8f#	dich’s	[	8ee	dich’s	[
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4A#	nicht	.	4c#	nicht	.	4f#	nicht	.	4ff#	nicht	.
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+4A#	hin-	p	4d#	hin-	p	4f#	hin-	p	4dd#	hin-	p
+4.G#	-ab	.	4.d#	-ab	.	4.f#	-ab	.	4.b	-ab	.
+8G#	zu	.	8c#	zu	.	8e#X	zu	.	8cc#	zu	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4F#	lau-	.	4d#	lau-	.	4f#	lau-	.	4b	lau-	.
+4F#	-schen	.	4c#	-schen	.	4f#	-schen	.	4a#	-schen	.
+!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a
+*g#:	*	*	*g#:	*	*	*g#:	*	*	*g#:	*	*
+4E	von	<	4c#	von	<	4f#	von	<	4a#	von	<
+4E	dem	[	4c#	dem	[	4f#	dem	[[	4a#	dem	[[
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4.D#	Söl-	.	4.A#	Söl-	.	4.f##X	Söl-	.	4.dd#	Söl-	.
+8D#	-ler	.	8A#	-ler	.	8f##	-ler	.	8cc#	-ler	.
+4D#	in	.	4d#	in	.	4f##	in	.	4b	in	.
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+4D#	den	>	4c#	den	>	4f##	den	>	4a#	den	>
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2G#	Grund,	]	2B	Grund,	]	2g#	Grund,	]	2b	Grund,	]
+2r	.	.	2r	.	.	2r	.	.	4.dd#	lockt	.
+.	.	.	.	.	.	.	.	.	8dd#	dich’s	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1r	.	.	1r	.	.	1r	.	.	4cc#	nicht	.
+.	.	.	.	.	.	.	.	.	4b	hin-	.
+.	.	.	.	.	.	.	.	.	4a#	-ab	.
+.	.	.	.	.	.	.	.	.	8bL	zu	.
+.	.	.	.	.	.	.	.	.	8g#J	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*F#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
+1BB	nicht	.	(2G#	nicht	.	1c#	nicht	.	4f#	lau-	.
+.	.	.	.	.	.	.	.	.	4e#X	-schen	.
+.	.	.	2E#X)	.	.	.	.	.	8g#L	von	.
+.	.	.	.	.	.	.	.	.	8e#J	.	.
+.	.	.	.	.	.	.	.	.	8d#L	dem	.
+.	.	.	.	.	.	.	.	.	8c#J	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4AA#	von	.	4F#	von	.	4c#	von	.	(2f#	Söl-	.
+4AA#	dem	.	4c#	dem	.	4e	dem	.	.	.	.
+4BB	Söl-	.	4B	Söl-	.	4d#	Söl-	.	[2ff#)	.	.
+4BB	-ler	.	4B	-ler	.	4dn	-ler	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2C#	in	.	2A#	in	.	2c#	in	.	4ff#]	.	.
+.	.	.	.	.	.	.	.	.	4f#	-ler	.
+2C#	den	.	4.B	den	.	2e#X	den	.	4.g#	in	.
+.	.	.	8c#	.	.	.	.	.	8a#	den	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2.FF# 2.F#	Grund?	.	2B	Grund?	.	(2e#X	Grund?	.	(2g#	Grund?	.
+.	.	.	4A#	.	.	4f#)	.	.	4f#)	.	.
+4r	.	.	4r	.	.	4ryy	.	.	4r	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
+8B	Wo	pp	8B	Wo	pp	8dn	Wo	pp	8f#	Wo	pp
+8B	die	.	8B	die	.	8d	die	.	8f#	die	.
+.	.	.	.	.	.	.	.	.	8qan/	.	.
+8B	vie-	.	8B	vie-	.	8d	vie-	.	8gn	vie-	.
+8B	-len	.	8B	-len	.	8d	-len	.	8f#	-len	.
+4An	Bä-	.	4An	Bä-	.	4c#	Bä-	.	4f#	Bä-	.
+4A	-che	.	4A	-che	.	4c#	-che	.	4f#	-che	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2Gn	ge-	.	2B	ge-	.	2e#X	ge-	.	2b	ge-	.
+4F#	-hen	.	4c#	-hen	.	4f#	-hen	.	4a#	-hen	.
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+4r	.	>	4r	.	>	4r	.	>	4r	.	>
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+8B	wun-	.	8B	wun-	.	8dn	wun-	.	8f#	wun-	.
+8B	-der-	.	8B	-der-	.	8d	-der-	.	8f#	-der-	.
+.	.	.	.	.	.	.	.	.	8qan/	.	]
+8B	-bar	]	8B	-bar	]	8d	-bar	]	8gn	-bar	.
+8B	im	.	8B	im	.	8d	im	.	8f#	im	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
+4B-X	Mon-	.	4dn	Mon-	.	4gn	Mon-	.	4ddn	Mon-	.
+4B-	-den-	.	4d	-den-	.	4g#X	-den-	.	4dd	-den-	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+2.An	-schein,	<	(2f#	-schein,	<	2.an	-schein,	<	(2ddn	-schein,	<
+.	.	.	4e)	.	.	.	.	.	4cc#)	.	.
+4r	.	.	4r	.	[	4r	.	[	4r	.	[
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+8C#	und	[	8e	und	.	8gn	und	.	8an	und	.
+8C#	die	.	8e	die	.	8g	die	.	8a	die	.
+.	.	.	.	.	.	.	.	.	8qcc#/	.	.
+8C#	stil-	.	8e	stil-	.	8g	stil-	.	8b	stil-	.
+8C#	-len	.	8e	-len	.	8g	-len	.	8a	-len	.
+4Dn	Bur-	.	4An	Bur-	.	4f#	Bur-	.	4a	Bur-	.
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+4D	-gen	<	4A	-gen	<	4f#	-gen	<	4a	-gen	<
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2BB	se-	[	2dn	se-	[	2g#X	se-	[	2ff#	se-	[
+4C#	-hen	.	4c#	-hen	.	4g#	-hen	.	4ee#X	-hen	.
+8.B	in	mf	8.c#	in	mf	8.e#X	in	mf	8.cc#	in	mf
+16B	den	.	16c#	den	.	16e#	den	.	16cc#	den	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4.An	Fluss	.	4.c#	Fluss	.	4.f#	Fluss	.	4.ff#	Fluss	.
+8A	vom	.	8c#	vom	.	8f#	vom	.	8cc#	vom	.
+4A	ho-	.	4c#	ho-	.	4f#	ho-	.	4cc#	ho-	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
+4A	-hen	.	4cn	-hen	.	4f#	-hen	.	4dd#	-hen	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2.G#	Stein,	.	2B	Stein,	.	2e	Stein,	.	2.ee	Stein,	.
+.	.	.	4r	.	.	4r	.	.	.	.	.
+8.G#	in	p	8.B	in	p	8.e	in	p	8.b	in	p
+16G#	den	.	16B	den	.	32e	den	.	16cc#	den	.
+.	.	.	.	.	.	32ryy	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4.F#	Fluss	.	4.B	Fluss	.	4.d#	Fluss	.	4.dd#	Fluss	.
+8F#	vom	.	8B	vom	.	8d#	vom	.	8cc#	vom	.
+4F#	ho-	.	4c#	ho-	.	4e	ho-	.	4b	ho-	.
+4F#	-hen	.	4c#	-hen	.	4e	-hen	.	4a#	-hen	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+[1B	Stein,	.	4B	Stein,	.	4d#	Stein,	.	[1b	Stein,	.
+.	.	.	4d#	vom	.	4f#	vom	.	.	.	.
+.	.	.	4.e	ho-	.	4.gn	ho-	.	.	.	.
+.	.	.	8d#	-hen	.	8f#	-hen	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1B_	.	.	(1c#	Stein.	.	(1e	Stein.	.	4b]	.	.
+.	.	.	.	.	.	.	.	.	4a#	vom	.
+.	.	.	.	.	.	.	.	.	4.ee	ho-	.
+.	.	.	.	.	.	.	.	.	8a#	-hen	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2B;]	.	.	2d#;)	.	.	2f#;)	.	.	2b;	Stein.	.
+4.B	Kennst	.	4.d#	Kennst	.	4.f#	Kennst	.	4.dd#	Kennst	.
+8B	du	.	8d#	du	.	8f#	du	.	8ee	du	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4A#	noch	.	4c#	noch	.	4f#	noch	.	4ff#	noch	.
+4A#	die	.	4d#	die	.	4f#	die	.	4dd#	die	.
+4.G#	süs-	.	4.d#	süs-	.	4.f#	süs-	.	4.b	süs-	.
+8G#	-sen	.	8c#	-sen	.	8e#X	-sen	.	8cc#	-sen	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+4F#	Lie-	.	4d#	Lie-	.	4f#	Lie-	.	4b	Lie-	.
+4F#	-der	.	4c#	-der	.	4f#	-der	.	4a#	-der	.
+4E	aus	.	4c#	aus	.	4f#	aus	.	4a#	aus	.
+4E	der	.	8BL	der	.	4f#	der	.	8g#L	der	.
+.	.	.	8A#J	.	.	.	.	.	8f#J	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+!	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a	!	!	!LO:DY:a
+4D#	al-	<	4B	al-	<	4f#	al-	<	4f#	al-	<
+4D#	-ten	.	4B	-ten	.	4f#	-ten	.	4b	-ten	.
+4C#	schö-	.	4A#	schö-	.	4f#	schö-	.	4cc#	schö-	.
+4BB	-nen	[	4B	-nen	[	4f#	-nen	[	4dd#	-nen	[
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+2AA#	Zeit?	.	2c#	Zeit?	.	2f#	Zeit?	.	2ee	Zeit?	.
+4.B	Sie	.	4.d#	Sie	.	4.f#	Sie	.	4.dd#	Sie	.
+8B	er-	.	8d#	er-	.	8f#	er-	.	8ee	er-	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+4A#	-wa-	.	4c#	-wa-	.	4f#	-wa-	.	4ff#	-wa-	.
+4A#	-chen	.	4d#	-chen	.	4f#	-chen	.	4dd#	-chen	.
+4.G#	al-	.	4.d#	al-	.	4.f#	al-	.	4.b	al-	.
+8G#	-le	.	8c#	-le	.	8e#X	-le	.	8cc#	-le	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+4F#	wie-	.	4d#	wie-	.	4f#	wie-	.	4b	wie-	.
+4F#	-der	.	4c#	-der	.	4f#	-der	.	4a#	-der	.
+4E	nachts	.	4c#	nachts	.	4f#	nachts	.	4a#	nachts	.
+4E	in	.	4c#	in	.	4f#	in	.	4a#	in	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+*g#:	*	*	*g#:	*	*	*g#:	*	*	*g#:	*	*
+4.D#	Wal-	.	4.A#	Wal-	.	4.f##X	Wal-	.	4.dd#	Wal-	.
+!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+8D#	-des-	<	8A#	-des-	<	8f##	-des-	<	8cc#	-des-	<
+4D#	-ein-	.	4d#	-ein-	.	4f##	-ein-	.	4b	-ein-	.
+4D#	-sam	[	4c#	-sam	[	4f##	-sam	[	4a#	-sam	[
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+2G#	keit,	.	2B	keit,	.	2g#	keit,	.	2b	keit,	.
+2r	.	.	2r	.	.	2r	.	.	4.dd#	sie	.
+.	.	.	.	.	.	.	.	.	8dd#	er-	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1r	.	.	1r	.	.	1r	.	.	4cc#	-wa-	.
+.	.	.	.	.	.	.	.	.	4b	-chen	.
+.	.	.	.	.	.	.	.	.	4a#	al-	.
+.	.	.	.	.	.	.	.	.	8bL	-le	.
+.	.	.	.	.	.	.	.	.	8g#J	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*F#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
+2.BB	wie-	.	2.G#	wie-	.	2.c#	wie-	.	4f#	wie-	.
+.	.	.	.	.	.	.	.	.	4e#X	-der	.
+.	.	.	.	.	.	.	.	.	8g#L	nachts	.
+.	.	.	.	.	.	.	.	.	8e#J	.	.
+4BB	-der	.	4E#X	-der	.	4c#	-der	.	8d#L	in	.
+.	.	.	.	.	.	.	.	.	8c#J	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+4AA#	nachts	.	4F#	nachts	.	4c#	nachts	.	(2f#	Wald-	.
+4AA#	in	.	4c#	in	.	4e	in	.	.	.	.
+4BB	Wal-	.	4B	Wal-	.	4d#	Wal-	.	[2ff#)	.	.
+4BB	-des-	.	4B	-des-	.	4dn	-des-	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+2C#	-ein-	.	(2A#	-ein-	.	2c#	-ein-	.	4ff#]	.	.
+.	.	.	.	.	.	.	.	.	4f#	-des-	.
+2C#	-sam	.	4.B)	-sam	.	2e#X	-sam	.	4.g#	-ein-	.
+.	.	.	8c#	.	.	.	.	.	8a#	-sam-	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+2.FF# 2.F#	keit,	.	(2B	keit,	.	(2e#X	keit,	.	(2g#	-keit	.
+.	.	.	4A#)	.	.	4f#)	.	.	4f#)	.	.
+4r	.	.	4r	.	.	4r	.	.	4r	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
+8B	wenn	pp	8B	wenn	pp	8dn	wenn	pp	8f#	wenn	pp
+8B	die	.	8B	die	.	8d	die	.	8f#	die	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a
+.	.	.	.	.	.	.	.	.	(8qan/	.	<
+!	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a	!	!	!
+8B	Bäu-	<	8B	Bäu-	<	8d	Bäu-	<	8gn)	Bäu-	.
+8B	-me	.	8B	-me	.	8d	-me	.	8f#	-me	.
+4An	träu-	.	4An	träu-	.	4c#	träu-	.	4f#	träu-	.
+4A	-mend	.	4A	-mend	.	4c#	-mend	.	4f#	-mend	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+2Gn	lau-	[	2B	lau-	[	2e#X	lau-	[	2b	lau-	[
+4F#	-schen	.	4c#	-schen	.	4f#	-schen	.	4a#	-schen	.
+4r	.	.	4r	.	.	4r	.	.	4r	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+8B	und	.	8B	und	.	8dn	und	.	8f#	und	.
+8B	der	.	8B	der	.	8d	der	.	8f#	der	.
+.	.	.	.	.	.	.	.	.	(8qan/	.	.
+8B	Flie-	.	8B	Flie-	.	8d	Flie-	.	8gn)	Flie-	.
+8B	-der	.	8B	-der	.	8d	-der	.	8f#	-der	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
+4B-X	duf-	.	4dn	duf-	.	4gn	duf-	.	4dd#	duf-	.
+4B-	-tet	.	4d	-tet	.	4g#X	-tet	.	4dd#	-tet	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+2.An	schwül,	.	(2f#	schwül,	.	2.an	schwül,	.	(2ddn	schwül,	.
+.	.	.	4e)	.	.	.	.	.	4cc#)	.	.
+4r	.	.	4r	.	.	4r	.	.	4r	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+8C#	und	.	8e	und	.	8gn	und	.	8an	und	.
+8C#	im	.	8e	im	.	8g	im	.	8a	im	.
+.	.	.	.	.	.	.	.	.	8qcc#/	.	.
+8C#	Fluss	.	8e	Fluss	.	8g	Fluss	.	8b	Fluss	.
+8C#	die	.	8e	die	.	8g	die	.	8a	die	.
+4Dn	Ni-	.	4An	Ni-	.	4f#	Ni-	.	4a	Ni-	.
+4D	-xen	.	4A	-xen	.	4f#	-xen	.	4a	-xen	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+*f#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
+2BB	rau-	.	2dn	rau-	.	2g#	rau-	.	2ff#	rau-	.
+4C#	-schen,	.	4c#	-schen,	.	4g#	-schen,	.	4ee#X	-schen,	.
+8.B	komm	.	8.c#	komm	.	8.e#X	komm	.	8.cc#	komm	.
+!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!	!LO:TX:b:i:t=cresc.	!	!
+16B	her-	.	16c#	her-	.	16e#	her-	.	16cc#	her-	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+4.An	-ab,	.	4.c#	-ab,	.	4.f#	-ab,	.	4.ff#	-ab,	.
+8A	hier	.	8c#	hier	.	8f#	hier	.	8cc#	hier	.
+4A	ist’s	.	4c#	ist’s	.	4f#	ist’s	.	4cc#	ist’s	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
+4A	so	.	4cn	so	.	4f#	so	.	4dd#	so	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+2G#	kuühl,	.	2B	kuühl,	.	2e	kuühl,	.	2ee	kuühl,	.
+4r	.	p	4r	.	p	4r	.	p	4r	.	p
+8.Gn	komm	.	8.B	komm	.	8.e	komm	.	8.b	komm	.
+16G	her-	.	16B	her-	.	16e	her-	.	16cc#	her-	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+4.F#	-ab,	.	4.B	-ab,	.	4.d#	-ab,	.	4.dd#	-ab,	.
+8F#	hier	.	8B	hier	.	8d#	hier	.	8cc#	hier	.
+4F#	ist’s	.	4c#	ist’s	.	4e	ist’s	.	4b	ist’s	.
+4F#	so	.	4c#	so	.	4e	so	.	4a#	so	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+2.BB	kühl,	.	(2A#	kühl,	.	(2e	kühl,	.	(2cc#	kühl,	.
+.	.	.	4B)	.	.	4d#)	.	.	4b)	.	.
+8.B	komm	.	8.d#	komm	.	8.f#	komm	.	4r	.	.
+16B	her-	.	16e	her-	.	16gn	her-	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
+2.B	-ab,	.	2.e	-ab,	.	2.gn	-ab,	.	4r	.	.
+!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!
+.	.	.	.	.	.	.	.	.	8.b	komm	.
+.	.	.	.	.	.	.	.	.	16ccn	her-	.
+.	.	.	.	.	.	.	.	.	4cc	-ab,	.
+8.B	komm	.	8.e	komm	.	8.g	komm	.	4r	.	.
+16B	her-	.	16fn	her-	.	16g#X	her-	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+2.B	-ab,	.	2.fn	-ab,	.	2.g#	-ab,	.	4r	.	.
+.	.	.	.	.	.	.	.	.	8.cc#	komm	.
+.	.	.	.	.	.	.	.	.	16ddn	her-	.
+.	.	.	.	.	.	.	.	.	4dd	-ab,	.
+8.B	komm	f	8.f#X	komm	f	8.an	komm	f	8.dd#X	komm	f
+16E	her-	.	16e	her-	.	16g#	her-	.	16ee	her-	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+4.E	-ab,	.	4.e	-ab,	.	4.g#	-ab,	.	4.ee	-ab,	.
+8E	hier	p	8e	hier	p	8gn	hier	p	8cc#	hier	p
+4F#	ist’s	.	4d#	ist’s	.	4f#	ist’s	.	4b	ist’s	.
+4F#	so	.	4c#	so	.	4e	so	.	8a#L	so	.
+.	.	.	.	.	.	.	.	.	8ff#J	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+2.BB	kühl.	.	(2A#	kühl.	.	(2e	kühl.	.	(2ff#	kühl.	.
+.	.	.	4B)	.	.	4d#)	.	.	4b)	.	.
+4r	.	.	4r	.	.	4r	.	.	4r	.	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: ([s1,s2,s3,s4])
 !!!EED: Imke Redecker
