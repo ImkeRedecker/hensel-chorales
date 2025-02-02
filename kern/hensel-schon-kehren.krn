@@ -1,5 +1,8 @@
-!!!COM: Fanny Hensel-Mendelssohn
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Eichendorff von, Joseph
 !!!OTL: Schon kehren die Vögel
+!!!OMD: Allegretto grazioso
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -10,7 +13,6 @@
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 *met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
 =	=	=	=	=	=	=	=
-!	!	!	!	!	!	!LO:TX:a:B:t=Allegretto grazioso	!
 4B-	Schon	4f	Schon	4b-	Schon	4dd	Schon
 =1	=1	=1	=1	=1	=1	=1	=1
 2B-	keh-	4f	keh-	2b-	keh-	4dd	keh-
@@ -35,6 +37,7 @@
 4B-	-der	4f	-der	4f	-der	4dd	-der
 4r	.	4r	.	4r	.	4r	.
 =5	=5	=5	=5	=5	=5	=5	=5
+*b-:	*	*b-:	*	*b-:	*	*b-:	*
 4.G-X	ach,	4.B-	ach,	4.en	ach,	4dd-X	ach,
 .	.	.	.	.	.	4cc	die
 8G-	die	8c	.	8e	die	.	.
@@ -56,6 +59,7 @@
 4F]	.	4A	-der,	4f	-der,	4cc	-der,
 4E-	-der,	4r	.	4r	.	4r	.
 =9	=9	=9	=9	=9	=9	=9	=9
+*B-:	*	*B-:	*	*B-:	*	*B-:	*
 2D	ach	2B-	ach	2f	ach	4f	ach
 .	.	.	.	.	.	8b-L	die
 .	.	.	.	.	.	8ddJ	.
@@ -79,6 +83,7 @@
 4r	.	4r	.	4r	.	4r	.
 4B-	Ich	4d	Ich	4f	Ich	4dd	Ich
 =13	=13	=13	=13	=13	=13	=13	=13
+*g:	*	*g:	*	*g:	*	*g:	*
 4A	weiß	4c	weiß	4f#X	weiß	4dd	weiß
 8A	nicht,	8c	nicht,	8f#	nicht,	8ee-	nicht,
 8A	was	8c	was	8f#	was	8dd	was
@@ -142,6 +147,7 @@
 4.D	Früh-	4.d	Früh-	4.g	Früh-	4.b-	Früh-
 8D	-lings-	8c	-lings-	8f#X	-lings-	8a	-lings-
 =24	=24	=24	=24	=24	=24	=24	=24
+*B-:	*	*B-:	*	*B-:	*	*B-:	*
 4F	-ta-	4A	-ta-	4e-	-ta-	4cc	-ta-
 4BB-	-gen.	4B-	-gen.	4d	-gen.	4b-	-gen.
 4r	.	4r	.	4r	.	4r	.
@@ -169,6 +175,7 @@
 4BB-	-der	4f	-der	4f	-der	4dd	-der
 4r	.	4r	.	4r	.	4r	.
 =29	=29	=29	=29	=29	=29	=29	=29
+*b-:	*	*b-:	*	*b-:	*	*b-:	*
 4.G-X	ach,	4.B-	ach,	4.en	ach,	4.dd-X	ach,
 8G-	die	8c	die	8e	die	8cc	die
 4G-	fröh-	4d-X	fröh-	4e	fröh-	4b-	fröh-
@@ -229,4 +236,5 @@
 1BB-	-der?	1d	-der?	1f	-der?	1b-	-der?
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
