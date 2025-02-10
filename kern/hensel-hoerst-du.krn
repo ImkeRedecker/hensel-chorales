@@ -1,5 +1,8 @@
-!!!COM: Fanny Hensel
-!!!OTL: Hörst du nicht die Bäume rauschen
+!!!COM: Hensel, Fanny
+!!!CDT: 1805/11/14-1847/05/14
+!!!LYR: Eichendorff von, Joseph
+!!!OTL:Hörst du nich die Bäume rauschen
+!!!OMD: Allegretto
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
 *staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
@@ -10,7 +13,6 @@
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
-!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!LO:TX:a:B:t=Allegretto	!	!LO:DY:a
 4.B	Hörst	p	4.d#	Hörst	p	4.f#	Hörst	p	4.dd#	Hörst	p
 8B	du	.	8d#	du	.	8f#	du	.	8ee	du	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -47,6 +49,7 @@
 4E	von	<	4c#	von	<	4f#	von	<	4a#	von	<
 4E	dem	[	4c#	dem	[	4f#	dem	[	4a#	dem	[
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*g#:	*	*	*g#:	*	*	*g#:	*	*	*g#:	*	*
 4.D#	Söl-	.	4.A#	Söl-	.	4.f##X	Söl-	.	4.dd#	Söl-	.
 8D#	-ler	.	8A#	-ler	.	8f##	-ler	.	8cc#	-ler	.
 4D#	in	.	4d#	in	.	4f##	in	.	4b	in	.
@@ -63,6 +66,7 @@
 .	.	.	.	.	.	.	.	.	8bL	zu	.
 .	.	.	.	.	.	.	.	.	8g#J	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*F#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
 1BB	nicht	.	(2G#	nicht	.	1c#	nicht	.	4f#	lau-	.
 .	.	.	.	.	.	.	.	.	4e#X	-schen	.
 .	.	.	2E#X)	.	.	.	.	.	8g#L	von	.
@@ -85,6 +89,7 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 !	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a	!	!	!LO:DY:a
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 8B	Wo	pp	8B	Wo	pp	8dn	Wo	pp	8f#	Wo	pp
 8B	die	.	8B	die	.	8d	die	.	8f#	die	.
 .	.	.	.	.	.	.	.	.	8qan/	.	.
@@ -104,6 +109,7 @@
 8B	-bar	.	8B	-bar	.	8d	-bar	.	8gn	-bar	.
 8B	im	.	8B	im	.	8d	im	.	8f#	im	.
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4B-X	Mon-	<	4dn	Mon-	<	4gn	Mon-	<	4ddn	Mon-	<
 4B-	-den-	.	4d	-den-	.	4g#X	-den-	.	4dd	-den-	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
@@ -120,20 +126,24 @@
 4Dn	Bur-	.	4An	Bur-	.	4f#	Bur-	.	4a	Bur-	.
 4D	-gen	.	4A	-gen	.	4f#	-gen	.	4a	-gen	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 2BB	se-	[	2dn	se-	[	2g#X	se-	[	2ff#	se-	[
 4C#	-hen	.	4c#	-hen	.	4g#	-hen	.	4ee#X	-hen	.
 !	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a	!	!	!
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 8.B	in	mf	8.c#	in	mf	8.e#X	in	mf	8.cc#	in	mf
 16B	den	.	16c#	den	.	16e#	den	.	16cc#	den	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 4.An	Fluß	.	4.c#	Fluß	.	4.f#	Fluß	.	4.ff#	Fluß	.
 8A	vom	.	8c#	vom	.	8f#	vom	.	8cc#	vom	.
 4A	ho-	.	4c#	ho-	.	4f#	ho-	.	4cc#	ho-	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4A	-hen	.	4cn	-hen	.	4f#	-hen	.	4dd#	-hen	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2.G#	Stein,	.	2B	Stein,	.	2e	Stein,	.	2.ee	Stein,	.
 .	.	.	4r	.	.	4r	.	.	.	.	.
 !	!	!LO:DY:a	!	!	!	!	!	!LO:DY:a	!	!	!
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 8.Gn	in	p	8.B	in	p	8.e	in	p	8.b	in	p
 16G	dem	.	16B	dem	.	16e	dem	.	16cc#	dem	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
@@ -188,6 +198,7 @@
 4E	nachts	<	4c#	nachts	<	4f#	nachts	<	4a#	nachts	<
 4E	in	.	4c#	in	.	4f#	in	.	4a#	in	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+*g#:	*	*	*g#:	*	*	*g#:	*	*	*g#:	*	*
 4.D#	Wal-	[	4.A#	Wal-	[	4.f##X	Wal-	[	4.dd#	Wal-	[
 8D#	-des-	.	8A#	-des-	.	8f##	-des-	.	8cc#	-des-	.
 4D#	-ein-	.	4d#	-ein-	.	4f##	-ein-	.	4b	-ein-	.
@@ -203,6 +214,7 @@
 .	.	.	.	.	.	.	.	.	8bL	-le	.
 .	.	.	.	.	.	.	.	.	8g#J	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*F#:	*	*	*F#:	*	*	*F#:	*	*	*F#:	*	*
 2.BB	wie-	.	2.G#	wie-	.	2.c#	wie-	.	4f#	wie-	.
 .	.	.	.	.	.	.	.	.	4e#X	-der	.
 .	.	.	.	.	.	.	.	.	8g#L	nachts	.
@@ -225,6 +237,7 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 8B	wenn	pp	8B	wenn	pp	8dn	wenn	pp	8f#	wenn	pp
 8B	die	.	8B	die	.	8d	die	.	8f#	die	.
 !	!	!	!	!	!	!	!	!	!	!	!LO:DY:a
@@ -244,6 +257,7 @@
 .	.	.	.	.	.	.	.	.	(8qan/	.	.
 8B	Flie-	.	8B	Flie-	.	8d	Flie-	.	8gn)	Flie-	.
 8B	-der	.	8B	-der	.	8d	-der	.	8f#	-der	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4B-X	duf-	.	4dn	duf-	.	4gn	duf-	.	4ddn	duf-	.
 4B-	-tet	.	4d	-tet	.	4g#X	-tet	.	4dd	-tet	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
@@ -259,6 +273,7 @@
 4Dn	Ni-	.	4An	Ni-	.	4f#	Ni-	.	4a	Ni-	.
 4D	-xen	.	4A	-xen	.	4f#	-xen	.	4a	-xen	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 2BB	lau-	.	2dn	lau-	.	2g#	lau-	.	2ff#	lau-	.
 4C#	-schen,	.	4c#	-schen,	.	4g#	-schen,	.	4ee#X	-schen,	.
 8.B	komm	.	8.c#	komm	.	8.fn	komm	.	8.cc#	komm	.
@@ -268,11 +283,13 @@
 4.An	-ab,	.	4.c#	-ab,	.	4.f#	-ab,	.	4.ff#	-ab,	.
 8A	hier	.	8c#	hier	.	8f#	hier	.	8cc#	hier	.
 4A	ist’s	.	4c#	ist’s	.	4f#	ist’s	.	4cc#	ist’s	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4A	so	.	4cn	so	.	4f#	so	.	4dd#	so	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 2G#	kühl,	.	2B	kühl,	.	2e	kühl,	.	2ee	kühl,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 !	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a	!	!	!LO:DY:a
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 8.Gn	komm	p	8.B	komm	p	8.e	komm	p	8.b	komm	p
 16G	her-	.	16B	her-	.	16e	her-	.	16cc#	her-	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
@@ -315,4 +332,5 @@
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!EED: Imke Redecker
