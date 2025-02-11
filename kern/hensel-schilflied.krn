@@ -10,6 +10,7 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *d:	*	*d:	*	*d:	*	*d:	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*MM80	*	*MM80	*	*MM80	*	*MM80	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!LO:TX:a:B:t=Largo	!
 4D	Drü-	4d	Drü-	4f	Drü-	4.a	Drü-
@@ -129,8 +130,8 @@
 8.G	trau-	8.f	trau-	4a-	-seln,	8.bn	trau-
 16G	-rig	16f	-rig	.	.	16b	-rig
 =31	=31	=31	=31	=31	=31	=31	=31
-8.G	säu-	8.f	säu-	8.a	säu-	8.bn	säu-
-16G	-seln	16f	-seln	16a	-seln	16b	-seln
+8.G	säu-	8.f	säu-	8.a-i	säu-	8.bn	säu-
+16G	-seln	16f	-seln	16a-i	-seln	16b	-seln
 8.G	hier	8.e-X	hier	8.g	hier	8.cc	hier
 16G	die	16Bn	die	16f	die	16dd	die
 =32	=32	=32	=32	=32	=32	=32	=32
@@ -273,4 +274,5 @@
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental paren
 !!!EED: Imke Redecker
